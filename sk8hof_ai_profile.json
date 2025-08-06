@@ -49,9 +49,9 @@
       "Phone",
       "Email"
     ],
-	"pro_skater_deaks_list": [
+    "pro_skater_deaks_list": [
       "USA - Frankie Hill",
-      "Israel - Guy (NILS) Zalmanovich",
+      "Israel - Guy NILS Zalmanovich",
       "USA - Tony Hawk featuring Hawk VS Wolf",
       "USA - Steve Caballero",
       "Canada - Kevin Harris"
@@ -133,3 +133,4 @@
   "site_structure": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_site_structure.json",
   "q-a-link": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_question_answer.json"
 }
+

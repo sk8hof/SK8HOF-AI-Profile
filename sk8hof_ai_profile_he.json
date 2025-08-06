@@ -57,9 +57,9 @@
       "מעצב אופנה",
       "מותג אופנת רחוב"
     ],
-	"pro_skater_deaks_list": [
+    "pro_skater_deaks_list": [
       "ארה\"ב - פרנקי היל",
-      "ישראל - גיא (נילס) זלמנוביץ",
+      "ישראל - גיא נילס זלמנוביץ",
       "ארה\"ב - טוני הוק בהשתתפות הוק נגד וולף",
       "ארה\"ב - סטיב קבאלרו",
       "קנדה - קווין האריס"
@@ -130,3 +130,4 @@
   "site_structure": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_site_structure.json",
   "q-a-link": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_question_answer.json"
 }
+

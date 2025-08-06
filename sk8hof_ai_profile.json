@@ -49,9 +49,9 @@
       "Phone",
       "Email"
     ],
-    "pro_skater_deaks_list": [
+	"pro_skater_deaks_list": [
       "USA - Frankie Hill",
-      "Israel - Guy NILS Zalmanovich",
+      "Israel - Guy (NILS) Zalmanovich",
       "USA - Tony Hawk featuring Hawk VS Wolf",
       "USA - Steve Caballero",
       "Canada - Kevin Harris"
@@ -127,10 +127,1197 @@
     ],
     "topics_count": 3
   },
-  "translations": {
-	  "he": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_ai_profile_he.json"
-	},
-  "site_structure": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_site_structure.json",
-  "q-a-link": "https://raw.githubusercontent.com/sk8hof/SK8HOF-AI-Profile/main/sk8hof_question_answer.json"
+  "structure": {
+        "sitemap_url": "https://sk8hof.com/sitemap.xml",
+        "urls": [
+            "https:\/\/sk8hof.com\/",
+            "https:\/\/sk8hof.com\/store.php",
+            "https:\/\/sk8hof.com\/store_meta.php",
+            "https:\/\/sk8hof.com\/shoes_store.php",
+            "https:\/\/sk8hof.com\/shipping.php",
+            "https:\/\/sk8hof.com\/about.php",
+            "https:\/\/sk8hof.com\/contact.php",
+            "https:\/\/sk8hof.com\/terms.php",
+            "https:\/\/sk8hof.com\/privacy.php",
+            "https:\/\/sk8hof.com\/shoppingCart.php",
+            "https:\/\/sk8hof.com\/CANADA\/kevin-harris\/",
+            "https:\/\/sk8hof.com\/USA\/steve-caballero\/",
+            "https:\/\/sk8hof.com\/USA\/tony-hawk\/hawk-vs-wolf.php",
+            "https:\/\/sk8hof.com\/IL\/guy-nils\/",
+            "https:\/\/sk8hof.com\/USA\/frankie-hill\/",
+            "https:\/\/sk8hof.com\/artists\/tzukit_shoval\/",
+            "https:\/\/sk8hof.com\/store_product.php?pid=1",
+            "https:\/\/sk8hof.com\/store_product.php?pid=35",
+            "https:\/\/sk8hof.com\/store_product.php?pid=16",
+            "https:\/\/sk8hof.com\/store_product.php?pid=17",
+            "https:\/\/sk8hof.com\/store_product.php?pid=14",
+            "https:\/\/sk8hof.com\/store-shad-neg.php",
+            "https:\/\/sk8hof.com\/store_product.php?pid=18",
+            "https:\/\/sk8hof.com\/store_product.php?pid=20",
+            "https:\/\/sk8hof.com\/store_product.php?pid=19",
+            "https:\/\/sk8hof.com\/artists\/dragon_collection\/",
+            "https:\/\/sk8hof.com\/store_product.php?pid=6",
+            "https:\/\/sk8hof.com\/store_product.php?pid=7",
+            "https:\/\/sk8hof.com\/store_product.php?pid=22",
+            "https:\/\/sk8hof.com\/store_product.php?pid=21",
+            "https:\/\/sk8hof.com\/store_product.php?pid=4",
+            "https:\/\/sk8hof.com\/store_product.php?pid=5",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=33",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=34",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=25",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=26",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=27",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=32",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=28",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=31",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=29",
+            "https:\/\/sk8hof.com\/shoes_product.php?pid=30",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=45",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=44",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=43",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=42",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=41",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=40",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=39",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=38",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=37",
+            "https:\/\/sk8hof.com\/shoes_product2.php?pid=36",
+            "https:\/\/sk8hof.com\/store_product.php?pid=8",
+            "https:\/\/sk8hof.com\/store_product.php?pid=9",
+            "https:\/\/sk8hof.com\/store_product.php?pid=10",
+            "https:\/\/sk8hof.com\/store_product.php?pid=11",
+            "https:\/\/sk8hof.com\/store_product.php?pid=12",
+            "https:\/\/sk8hof.com\/store_product.php?pid=13",
+            "https:\/\/sk8hof.com\/store_product.php?pid=47",
+            "https:\/\/sk8hof.com\/store_product.php?pid=46",
+            "https:\/\/sk8hof.com\/store_product.php?pid=48",
+            "https:\/\/sk8hof.com\/store_product.php?pid=49",
+            "https:\/\/sk8hof.com\/store_product.php?pid=50",
+            "https:\/\/sk8hof.com\/store_product.php?pid=51",
+            "https:\/\/sk8hof.com\/store_product.php?pid=52"
+        ],
+        "total_urls": 65,
+        "loaded_at": "2025-07-11T06:13:15.571Z",
+        "scan_results": [
+            {
+                "url": "https:\/\/sk8hof.com\/",
+                "status": "success",
+                "title": "SK8HOF | SK8 Hall of Fame | Skating Collectors Merchandise Store",
+                "description": "SK8HOF - Skateboard SK8 Hall of Fame private limited boards collection, skateboard, Skateboard decks signed by pro skaters, Brand merchandise & apparel shopping store",
+                "all_text_content": "SK8HOF® | Skate Hall of Fame Private Limited Collection Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy © 2025 SK8HOF® All rights reserved. SK8HOF Pro Skaters Autograph decks SK8HOF0004 04 From: Canada, Vancouver Kevin Harris Special Limited Edition Hawk VS Wolf Tony Hawk VS Jason Ellis Autographed limited edition GOLD deck SK8HOF0001 01 From: ISRAEL Guy (NILS)Zalmanovich SK8HOF0002 02 From: USA, California Frankie Hill SK8HOF0003 03 From: USA, California SteveCaballero SK8HOF0005 who's next ? Recommend your SK8HOF pro skater # sk8hof at gmail dot com SK8HOF Artists collections There is a difference between knowing the path and walking the path. coming soon stay tuned SK8ART0001 From: ISRAEL Tzukiti Shoval Hand paint Sneakers SK8HOF Merch & Style SK8HOF : Watch Faces Collection Merchandise STORE META COLLECTION SK8HOF Custom Collection © 2025 SK8HOF® All rights reserved.",
+                "meta_keywords": "SK8HOF, Skateboard, SK8 Hall of Fame, sk8, sk8hof, Hall of Fame Skateboard private collection, Skateboard limited collection, Autograph skateboard, Signed decks, Guy NILS Zalmanovich, Guy Nils Autograph Skateboard, Frankie Hill Signed Decks, Frankie Hill skateboarding, Hawk VS Wolf Autograph deck, Tony Hawk VS Jason Ellis, Tony Hawk Signed deck, Tony Hawk, Steve Caballero Autograph Decks, Steve Caballero, VANS Customs Collection, FREE Watch Faces Collection, SK8HOF Watch Faces, Ddickies SK8HOF apparel collection, Ddickies SK8HOF",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "SK8HOF® |  Skate Hall of Fame \n                \tPrivate Limited Collection"
+                    },
+                    {
+                        "level": 2,
+                        "text": "SK8HOF Pro Skaters Autograph decks"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Kevin Harris"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Hawk VS Wolf"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Guy (NILS)Zalmanovich"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Frankie Hill"
+                    },
+                    {
+                        "level": 2,
+                        "text": "SteveCaballero"
+                    },
+                    {
+                        "level": 2,
+                        "text": "SK8HOF Artists collections"
+                    },
+                    {
+                        "level": 2,
+                        "text": "SK8HOF Merch & Style"
+                    }
+                ],
+                "content_preview": "SK8HOF® | Skate Hall of Fame Private Limited Collection Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy © 2025 SK8HOF® All rights reserved. SK8HOF Pro Skaters Autograph decks SK8HOF0004 04 From: Canada, Vancouver Kevin Harris Special Limited Edition Hawk VS Wolf Tony Hawk VS Jason Ellis Autographed limited edition GOLD deck SK8HOF0001 01 From: ISRAEL Guy (NILS)Zalmanovich SK8HOF0002 02 From: USA, California Frankie",
+                "content_length": 43555,
+                "text_length": 967,
+                "word_count": 148,
+                "scanned_at": "2025-07-11 06:41:17",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page serves as an online store for SK8HOF, focusing on skateboard collector's merchandise, apparel, and accessories. The main goal is to showcase and sell limited edition skateboard decks signed by professional skaters, along with branded merchandise and apparel collections.\n\n### 2. CONTENT SUMMARY:\nThe content primarily features information about the SK8HOF brand, its exclusive skateboard collections signed by pro skaters, upcoming artist collections, and merchandise offerings. It also includes links for navigation, such as the store, metaverse collection, Vans custom, shipping info, about us, and contact us sections.\n\n### 3. KEY TOPICS:\n- Skateboard collector's merchandise\n- Limited edition skateboard decks signed by pro skaters\n- SK8HOF brand merchandise and apparel\n- Artist collections\n- Custom collections\n- Shipping information\n- About Us\n- Contact Us\n\n### 4. TARGET AUDIENCE:\nThe content is intended for skateboarding enthusiasts, collectors, and fans of professional skaters. It targets individuals interested in unique and exclusive skateboard decks, branded merchandise, and apparel associated with the skateboarding culture.\n\n### 5. BUSINESS VALUE:\nThe page adds value to the business by:\n- Showcasing exclusive and limited-edition skateboard decks signed by pro skaters, attracting collectors and enthusiasts.\n- Offering branded merchandise and apparel, increasing brand visibility and potential revenue streams.\n- Providing a platform for showcasing upcoming artist collections, fostering creativity and diversity within the skateboarding community.\n\n### 6. KEYWORDS:\nPotential SEO keywords:\n- SK8HOF\n- Skate Hall of Fame\n- Pro skaters autograph decks\n- Skateboard merchandise store\n- Limited edition skateboard decks\n- Skateboard collector's items\n- Skateboarding apparel\n\n### 7. CONTENT GAPS:\nSome potential content gaps that could be addressed:\n- Lack of detailed product descriptions for the skateboard decks and merchandise may hinder conversion rates.\n- Missing customer testimonials or reviews could impact trust and credibility.\n- Limited information on the artist collections and upcoming releases may reduce engagement levels.\n- Absence of a blog or news section for industry updates and community engagement might limit returning visitors.\n\nBy addressing these content gaps and optimizing the page for enhanced user experience, engagement, and SEO, the SK8HOF website can potentially attract a wider audience and drive more conversions.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:42:16"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/store.php",
+                "status": "success",
+                "title": "SK8HOF | Merchandise Store | Autograph Skateboards | Streetwear Collection | SK8 Hall of Fame",
+                "description": "SK8HOF Store - Skateboard Hall of Fame private limited boards collection, Signup by the pro skaters and a Brand merchandise & apparel shopping store",
+                "all_text_content": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy Print ON Work shirt Basic Buttons S : $95 #SK8HOF0001 Guy Nils 5 # Black Label : $750 20 # Blue Label : $300 Basic T Shirt : $70 Print ON T Shirt FREE Frankie Hill : Autographed Decks STORE SK8 Hall of Fame MAYAN T Shirt : $80 Parts T Shirt : $80 FREE GUY NILS TS-01 : $80 SK8HOF Custom Collection SK8HOF : Vans Custom Collection Negative Shadow Special Limited Edition Hawk VS Wolf Tony Hawk VS Jason Ellis Autographed limited edition GOLD deck Hawk VS Wolf : Signed Deck SK8HOF Collection at ROBLOX Steve Caballero : Signed Decks D Stripe TS : $80 A Stripe TS : $80 C Anima TS : $80 SK8HOF : DRAGON T Shirt Collection Bold T Shirt : $75 Print ON T Shirt FREE Autographed Decks collection Kevin Harris Legendary canadian skater mastering FREESTYLE skateboarding Kevin Harris : Signed Deck Dragon Scrubs : $70 Tzukiti Shoval SHOETZ Artist Print ON Work shirt FREE Glory S : $100 Print ON Work shirt Blank S : $100 SK8HOF : Watch Faces Collection Basic Buttons L : $110 Print ON T Shirt FREE Coming Soon at ROBLOX Coming Soon at Decentraland NO Brand LIMITED EDITION Deep jacket : $145 © 2025 SK8HOF® All rights reserved.",
+                "meta_keywords": "Skateboard, Skate Board, sk8, sk8hhof, SK8 Hall of Fame, Skateboard private collection, Skateboard Hall of Fame limited collection, Autograph skateboard, Signed decks, Guy NILS Zalmanovich, Guy Nils, Guy Nils Skateboard, Frankie Hill Signed Decks, Frankie Hill skateboarding, Hawk VS Wolf Autograph deck, Tony Hawk VS Jason Ellis, Tony Hawk Signed deck, Steve Caballero Autograph Decks, Steve Caballero, VANS Customs Collection, FREE Watch Faces Collection, SK8HOF Watch Faces, Ddickies SK8HOF apparel collection, Ddickies SK8HOF, SK8 Hall of Fame collection",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "STORE\n                        SK8 Hall of Fame"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Hawk VS Wolf"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Kevin Harris"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy Print ON Work shirt Basic Buttons S : $95 #SK8HOF0001 Guy Nils 5 # Black Label : $750 20 # Blue Label : $300 Basic T Shirt : $70 Print ON T Shirt FREE Frankie Hill : Autographed Decks STORE SK8 Hall of Fame MAYAN T Shirt : $80 Parts T Shirt : $80 FREE GUY NILS TS-01 : $80 SK8HOF Custom Collection SK8HOF : Vans Custom Collection Negative Shadow Special Limited Edition Haw",
+                "content_length": 141463,
+                "text_length": 1249,
+                "word_count": 190,
+                "scanned_at": "2025-07-11 06:41:18",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is a merchandise store for SK8HOF, offering autographed skateboards, streetwear collections, and other branded merchandise. The main goal of the page is to showcase and sell SK8HOF products to skateboarding enthusiasts and fans of the brand.\n\n### 2. CONTENT SUMMARY:\nThe content on the page includes a variety of SK8HOF products such as autographed decks, streetwear items, custom collections, and accessories. Prices, product names, and brief descriptions are provided for each item. The page also mentions upcoming releases on platforms like ROBLOX and Decentraland.\n\n### 3. KEY TOPICS:\n- Autographed skateboards\n- Streetwear collections\n- Custom merchandise\n- Collaboration with skaters like Tony Hawk and Jason Ellis\n- Limited edition products\n- Upcoming releases on gaming platforms\n\n### 4. TARGET AUDIENCE:\nThe content is primarily intended for skateboarding enthusiasts, fans of SK8HOF, and collectors of autographed skateboards. The audience may include young adults interested in streetwear fashion and niche skateboarding communities.\n\n### 5. BUSINESS VALUE:\n- Showcasing exclusive and limited-edition products can create a sense of urgency and exclusivity, driving sales.\n- Featuring collaborations with well-known skaters like Tony Hawk can attract their fan base and increase brand visibility.\n- Mentioning upcoming releases on popular gaming platforms can generate excitement and anticipation among the target audience.\n\n### 6. KEYWORDS:\n- Autographed skateboards\n- Streetwear collection\n- SK8 Hall of Fame\n- Custom merchandise\n- Limited edition\n- Skateboarding apparel\n\n### 7. CONTENT GAPS:\n- Detailed product descriptions or specifications could enhance the shopping experience and provide more information to potential buyers.\n- Customer reviews or testimonials could help build trust and credibility for the brand and its products.\n- Information about shipping policies, return\/exchange procedures, or customer support options may be missing and could improve the overall user experience.\n\nBy addressing content gaps, improving product descriptions, and incorporating customer feedback, the page can enhance user engagement and potentially increase conversions.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:42:50"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/store_meta.php",
+                "status": "success",
+                "title": "SK8HOF Metaverse Wearable Collection | Skate Hall of Fame",
+                "description": "SK8HOF Metaverse Store Collection -  SK8 Hall of Fame Skateboard private limited boards | Discover the SK8HOF streetwear Roblox Wearable collection and express your unique avatar style",
+                "all_text_content": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy SK8HOF | SK8 Hall of Fame Collection SK8HOF Roblox collection Discover SK8HOF, The latest SK8 Hall of Fame streetwear Roblox collection, where creativity meets endless adventures, and express your unique avatar style today! Dragon t shirt : SK8HOF main Mascot with a colorful t-shirts Collection Fire Dragon : 30 Red Dragon : 30 Blue Dragon : 30 Green Dragon : 30 Half Blue : 30 Half Orang : 30 Guy NILS t shirt : Guy (NILS) Zalmanovich Collection - Hall of Fame Israeli pro skater GNZ Skull : 35 GNZ Logo : 35 GNZ Duck : 35 GNZ Fire : 35 GNZ Blue Fire : 35 GNZ Hamster : 35 GNZ Hamster : 35 GNZ Hamster : 35 GNZ Blue Fire : 35 GNZ Fire : 35 Foxy Jeans Shorts : Hoooot Girls skaters style Looks Light Shorts Jeans : 10 Dark Shorts Jeans : 10 Foxy Jeans Overall : Cool vibe skating girl Outfit Pink Overall Jeans : 10 Blue Overall Jeans : 10 Foxy Jeans Pants : Skaters Low cut Jeans Pants F Dark Jeans : 10 Foxy Basic t shirt : A clear and simple skaters t-shirt looks Foxy Pink : 5 Foxy L Pink : 5 Foxy L purple : 5 Foxy Off-white : 5 Foxy Wave t shirt : Going whit a Wave cut T-shirt skaters style Wave Pink : 5 Fire t shirt : Hoooot Fire SK8HOF T-shirts Black Red : 5 Black Blue : 5 Black Green : 5 Skull t shirt : DANGEROUS SK8HOF Skull t-shirt Black White : 5 Black Blue : 5 Black Foxy : 5 Black Green : 5 Army Pants : Awesome vibe SK8HOF Pants pro skaters Dark Brown : 10 Green Brown : 10 Green Foxy : 10 Pink Foxy : 10 Light Brown : 10 Blue : 10 Jeans Pants : Skaters Classic Jeans Pants Dark Jeans : 10 Basic w hoodie : Clear-cut Streetwear looks White Black : 10 White Blue : 10 White Foxy : 10 White Red : 10 Basic b hoodie : Going basic looks Black White Green : 10 Black White Blue : 10 Black White Foxy : 10 # # # * All product prices are subject to Roblox's terms and conditions. © 2025 SK8HOF® All rights reserved.",
+                "meta_keywords": "SK8HOF, SK8 Hall of Fame, Hall of Fame Metaverse, Hall of Fame Wearable Collection,  Metaverse, Wearable Collection, 3d apparel collection, Roblox, Wearable collection, Metaverse Store, Roblox UGC, Avatar Style, Avatar Wearable, Avatar Looks, Roblox Fashion, Metaverse Fashion",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "SK8HOF Roblox collection"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy SK8HOF | SK8 Hall of Fame Collection SK8HOF Roblox collection Discover SK8HOF, The latest SK8 Hall of Fame streetwear Roblox collection, where creativity meets endless adventures, and express your unique avatar style today! Dragon t shirt : SK8HOF main Mascot with a colorful t-shirts Collection Fire Dragon : 30 Red Dragon : 30 Blue Dragon : 30 Green Dragon : 30 Half Blue",
+                "content_length": 214559,
+                "text_length": 1957,
+                "word_count": 290,
+                "scanned_at": "2025-07-11 06:41:19",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page serves as a product showcase for SK8HOF's Roblox collection, aiming to promote and sell their streetwear merchandise targeted at Roblox users interested in skateboarding culture.\n\n### 2. CONTENT SUMMARY:\nThe content provides a detailed list of products available in the SK8HOF Roblox collection, including t-shirts, pants, hoodies, and other accessories, each described with unique features and style elements. The page emphasizes creativity, adventure, and personal expression through unique avatar styles.\n\n### 3. KEY TOPICS:\n- SK8HOF Roblox Collection\n- Streetwear Merchandise\n- Skateboarding Culture\n- Avatar Customization\n- Product Descriptions\n\n### 4. TARGET AUDIENCE:\nThe content is intended for Roblox users, particularly those interested in skateboarding and streetwear fashion. It targets individuals looking to express their style through virtual avatars within the Roblox platform.\n\n### 5. BUSINESS VALUE:\n- Showcasing a range of products to attract potential customers.\n- Promoting brand awareness and engagement among Roblox users.\n- Driving sales by highlighting unique features and style of the SK8HOF collection.\n\n### 6. KEYWORDS:\nPotential SEO Keywords:\n- SK8HOF Roblox Collection\n- Streetwear Roblox Wearable\n- Skate Hall of Fame\n- Skateboard Collection\n- Avatar Style Fashion\n\n### 7. CONTENT GAPS:\n1. **Product Images**: While the content mentions various products, having images for each item could enhance user engagement and provide a clearer understanding of the merchandise.\n   \n2. **Size\/Measurement Information**: Including details about sizing and measurements for the apparel items would assist customers in making informed purchase decisions.\n   \n3. **Customer Reviews\/Testimonials**: Adding feedback or reviews from satisfied customers could build trust and credibility for the brand and its products.\n\nBy addressing these content gaps, the webpage could potentially improve user experience, increase conversion rates, and strengthen the brand's online presence.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:44:14"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/shoes_store.php",
+                "status": "success",
+                "title": "SK8HOF VANS Customs Shoes Collection | Skate Hall of Fame",
+                "description": "SK8HOF® VANS Customs Collection | Skate Hall of Fame - Skateboard Vans customs collection for skaters and gamers",
+                "all_text_content": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy VANS Custom Collection SK8-HI FREE SK8HOF® Basic : $170 SK8-HI FREE X Tape : $170 SK8-HI FREE Screws 01 : $170 SLIP-ON FREE Screws 02 : $150 SK8-HI FREE Matching T Shirt Half+One : $170 Fire Dragon : $150 Vans Tribal 01 : $150 Vans Trident : $150 SK8-HI FREE Matching Watch Faces Blue Beam Dragon : $170 Sun Dust Dragon : $170 Delivery Important note SK8HOF® VANS collection is crafted using the official VANS customs platform, each order is tailored precisely to your specifications as outlined on your order. USA Ground Delivery Time: 3 - 5 Delivering Weeks. Price: $25 IL Air Delivery Time: 5 - 6 Delivering Weeks. Price: $40 EUR Air Delivery Time: 5 - 6 Delivering Weeks. Price: $40 Please note \/\/\/\/\/\/\/\/\/Custom orders are non-refundable and cannot be canceled once it's placed. SK8HOF® : Watch Faces Collection © 2025 SK8HOF® All rights reserved.",
+                "meta_keywords": "SK8HOF®, VANS, Skateboard shoes, sk8, sk8hof, SK8 Hall of Fame, Hall of Fame, Hall of Fame shoes collection, VANS Customs collection, skaters shoes, gamers shoes, SK8HOF apparel collection, Vans SK8HOF®",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "VANS\n                        Custom Collection"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy VANS Custom Collection SK8-HI FREE SK8HOF® Basic : $170 SK8-HI FREE X Tape : $170 SK8-HI FREE Screws 01 : $170 SLIP-ON FREE Screws 02 : $150 SK8-HI FREE Matching T Shirt Half+One : $170 Fire Dragon : $150 Vans Tribal 01 : $150 Vans Trident : $150 SK8-HI FREE Matching Watch Faces Blue Beam Dragon : $170 Sun Dust Dragon : $170 Delivery Important note SK8HOF® VANS collect",
+                "content_length": 94250,
+                "text_length": 982,
+                "word_count": 140,
+                "scanned_at": "2025-07-11 06:41:19",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is dedicated to showcasing and selling the SK8HOF VANS Customs Shoes Collection, highlighting the customization options available to customers. The main goal is to promote and drive sales of these customized VANS shoes.\n\n### 2. CONTENT SUMMARY:\nThe content on the page includes a list of VANS custom shoe designs available for purchase, along with details on pricing, delivery options, and a note on the non-refundable nature of custom orders. It emphasizes the customization aspect of the products and the use of the official VANS customs platform for crafting the collection.\n\n### 3. KEY TOPICS:\n- VANS Custom Collection\n- Pricing and Designs\n- Delivery Information\n- Customization Process\n- Non-refundable Order Policy\n- Copyright Notice\n\n### 4. TARGET AUDIENCE:\nThe content is intended for skaters, gamers, and individuals interested in unique, customized VANS shoes. It targets a niche audience looking for personalized footwear with a skateboarding and gaming aesthetic.\n\n### 5. BUSINESS VALUE:\n- Showcasing the customization options can attract customers looking for unique products.\n- Providing delivery information helps manage customer expectations and increases transparency.\n- The non-refundable order policy can reduce returns and exchanges, thus potentially increasing profitability.\n- Copyright notice emphasizes brand ownership and protection.\n\n### 6. KEYWORDS:\n- SK8HOF VANS Customs Collection\n- Skate Hall of Fame\n- VANS Custom Shoes\n- Custom Orders\n- Skaters\n- Gamers\n- Delivery Information\n\n### 7. CONTENT GAPS:\n- **Product Descriptions:** Adding detailed descriptions of each custom shoe design could enhance the customer's understanding and appeal.\n- **Sizing Information:** Including a sizing guide or information on how to choose the right size would assist customers in making informed purchase decisions.\n- **Customer Reviews\/Testimonials:** Incorporating testimonials or reviews from satisfied customers could build trust and credibility.\n- **Return Policy:** While the non-refundable policy is mentioned, clarity on the return process for damaged or incorrect orders could be beneficial.\n- **Social Proof:** Integrating social proof elements like customer photos wearing the custom shoes could enhance engagement and conversion rates.\n\nBy addressing these content gaps and optimizing the existing content, the page can potentially improve user experience, drive conversions, and increase customer satisfaction.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:44:31"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/shipping.php",
+                "status": "success",
+                "title": "Shipping Information | SK8HOF® Skate Hall of Fame",
+                "description": "Shipping information for SK8HOF® merchandise & apparel shopping store - Skate hall of fame private limited signed decks collection, by pro skaters around the world.",
+                "all_text_content": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy Shipping info We're doing the best to provide a quick delivery all around the word with UPS or DHL. Apparel & Boards IL Free Delivery 2 - 3 Delivering Weeks. USA Air Delivery Boards Delivery Delivering Time: 2 - 3 Weeks. Flat cost: $90 Apparel Delivery Delivering Time: 3 - 4 Weeks. Flat cost: $35 EUR Air Delivery Boards Delivery Delivering Time: 2 - 3 Weeks. Flat cost: $75 Apparel Delivery Delivering Time: 3 - 4 Weeks. Flat cost: $35 VANS Customs IL Air Delivery Time: 5 - 6 Delivering Weeks. Price: $40 USA Ground Delivery Time: 3 - 5 Delivering Weeks. Price: $25 EUR Air Delivery Time: 5 - 6 Delivering Weeks. Price: $40 Important note SK8HOF® VANS collection is crafted using the official VANS customs platform, each order is tailored precisely to your specifications as outlined on your order. Please note \/\/\/\/\/\/\/\/\/Custom orders are non-refundable and cannot be canceled once it's placed. Shoetz shoes IL Free Delivery Time: 30-45 business days. Price: Free USA Air Delivery Time: 45-55 business days. Price: $60 EUR Air Delivery Time: 45-55 business days. Price: $60 Important note SK8HOF® Shoetz collection is hand-maid by Tzukiti Shoval, each order is tailored precisely to your specifications as outlined on your order. Please note \/\/\/\/\/\/\/\/\/Custom orders are non-refundable and cannot be canceled once it's placed. Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy © 2025 SK8HOF® All rights reserved. \" You either love skateboarding, or you’re Wrong.\" Anonymous SK8HOF® Est. 2022 Follow SK8HOF® at :",
+                "meta_keywords": "SK8HOF® Shipping info, Skateboard, Skate Board, sk8, sk8hof, Skate hall of fame, Skateboard hall of fame, Skateboard private collection, Skateboard limited collection, signed decks collection",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Shipping\n\t\tinfo"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Apparel & Boards"
+                    },
+                    {
+                        "level": 2,
+                        "text": "VANS Customs"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Shoetz shoes"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy Shipping info We're doing the best to provide a quick delivery all around the word with UPS or DHL. Apparel & Boards IL Free Delivery 2 - 3 Delivering Weeks. USA Air Delivery Boards Delivery Delivering Time: 2 - 3 Weeks. Flat cost: $90 Apparel Delivery Delivering Time: 3 - 4 Weeks. Flat cost: $35 EUR Air Delivery Boards Delivery Delivering Time: 2 - 3 Weeks. Flat cost: $",
+                "content_length": 53646,
+                "text_length": 1723,
+                "word_count": 252,
+                "scanned_at": "2025-07-11 06:41:20",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page serves as a shipping information hub for SK8HOF® merchandise and apparel. Its main goal is to inform customers about shipping details for different product categories and regions.\n\n### 2. CONTENT SUMMARY:\nThe content outlines delivery times, costs, and important notes for shipping various SK8HOF® products, including apparel, boards, VANS Customs, and Shoetz shoes. It emphasizes the customization and non-refundable nature of custom orders. The page also briefly mentions the SK8HOF® brand, its collection creators, and a quote related to skateboarding.\n\n### 3. KEY TOPICS:\n- Shipping information for merchandise subsets like apparel, boards, VANS Customs, and Shoetz shoes\n- Specific delivery times and costs for different regions\n- Customization details and non-refundable policy for custom orders\n- Brand overview and collection creator mentions\n\n### 4. TARGET AUDIENCE:\nThe content is tailored for SK8HOF® customers interested in purchasing merchandise and apparel. It caters to a global audience by providing delivery details for various regions, appealing to skateboarding enthusiasts looking for unique, customized products.\n\n### 5. BUSINESS VALUE:\n- **Customer Information:** Provides transparency on shipping processes and costs, building trust with customers.\n- **Customization Focus:** Highlights the personalized nature of SK8HOF® products, potentially increasing appeal and customer engagement.\n- **Brand Promotion:** Mentions the SK8HOF® brand and collection creators, reinforcing brand identity and authenticity.\n\n### 6. KEYWORDS:\nPotential SEO keywords include:\n- SK8HOF® merchandise\n- Skateboarding apparel delivery\n- VANS Customs shipping\n- Shoetz shoes delivery\n- Custom orders non-refundable\n\n### 7. CONTENT GAPS:\n- **Customer Support Information:** Lack of details on customer support channels or returns policy may leave customers with unanswered questions.\n- **Product Images:** While the content mentions different product categories, incorporating images of the products could enhance user experience and drive sales.\n- **Testimonials or Reviews:** Adding customer testimonials or reviews could build credibility and influence purchasing decisions.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:44:48"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/CANADA\/kevin-harris\/",
+                "status": "success",
+                "title": "Kevin Harris Autographed Boards | SK8 Hall of Fame Kevin Harris Signed Skateboards Collection",
+                "description": "SK8HOF Store - SK8 Hall of Fame Kevin Harris Autographed decks Collection",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: Canada, Vancouver Presenting: INFO Pro: Kevin Harris Powell Peralta, Maple Road Skateboards Skate’s: 1975 - Present Kevin Harris is a legendary skateboarder renowned for his influential career with the Powell Peralta skateboarding team. VIDEO GALLERY Decks gallery Decks Collection Series number: SK8HOF0004 Maple Road Kevin Harris Freestyle Dack 7.5” X 28.75”, Nose\/Tail 5.5” Single 1 deck in stock. First edition series by Maple Road Australia. Imported from Canada. Color - White\/Teal Autograph by: Kevin Harris $350 Maple Road Kevin Harris Freestyle Dack 7.5” X 28.75”, Nose\/Tail 5.5” Single 1 deck in stock. First edition series by Maple Road Australia. Imported from Canada. Color - White\/Pink Autograph by: Kevin Harris $350 Powell Peralta Kevin Harris Mountie Reissue Freestyle Dack, 7” x 26.6” Single 1 deck \/\/ SOLD \/\/ Legendary Canadian Kevin Harris Mountie Powell Peralta graphic. Color - Pink Autograph by: Kevin Harris Artwork by: Vernon Courtlandt Johnson $500 Apparel # # # © 2025 SK8HOF® All rights reserved. * Boards cost price platform is increasing by: General - $ 50 ( Example $300 ; $350 ; $400. . . ) BUY NOW        SERIAL # SK8HOF0004 ADD TO CART BUY NOW",
+                "meta_keywords": "Kevin Harris, Kevin Harris Autographed Skates, Kevin Harris Skateboards Autographed decks, Kevin Harris Signed Skateboards, SK8 Hall of Fame, SK8HOF, Skateboard",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Kevin Harris  Powell Peralta, Maple Road Skateboards"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Maple Road\n                                Kevin Harris\n                                Freestyle Dack"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Maple Road\n                                Kevin Harris\n                                Freestyle Dack"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Powell Peralta\n                                Kevin Harris\n                                Mountie Reissue"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: Canada, Vancouver Presenting: INFO Pro: Kevin Harris Powell Peralta, Maple Road Skateboards Skate’s: 1975 - Present Kevin Harris is a legendary skateboarder renowned for his influential career with the Powell Peralta skateboarding team. VIDEO GALLERY Decks gallery Decks Collection Series number: SK8HOF0004 Maple Road Kevin Harris Freestyle Dack 7.5” X 2",
+                "content_length": 63592,
+                "text_length": 1344,
+                "word_count": 182,
+                "scanned_at": "2025-07-11 06:41:20",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is dedicated to showcasing and selling autographed skateboards from Kevin Harris, a legendary skateboarder. The main goal of the page is to promote and sell the Kevin Harris signed skateboards collection from Maple Road and Powell Peralta brands.\n\n### 2. CONTENT SUMMARY:\nThe content on the page includes information about Kevin Harris, details of the available autographed skateboard decks for sale, a video gallery, and links to related sections such as the merchandise store, Metaverse collection, shipping info, and contact information.\n\n### 3. KEY TOPICS:\n- Kevin Harris biography and skateboarding career\n- Autographed skateboard decks collection from Maple Road and Powell Peralta brands\n- Video gallery showcasing the decks\n- Merchandise store and related collections\n\n### 4. TARGET AUDIENCE:\nThe content is likely intended for skateboard collectors, fans of Kevin Harris, and skateboarding enthusiasts interested in owning limited edition autographed decks. The audience may also include individuals interested in skateboarding memorabilia and collectibles.\n\n### 5. BUSINESS VALUE:\n- Promotion and sales of exclusive autographed skateboard decks\n- Building brand association with Kevin Harris and Powell Peralta\n- Driving traffic to the SK8HOF store and other related collections\n- Creating a niche market for skateboarding memorabilia enthusiasts\n\n### 6. KEYWORDS:\nPotential SEO keywords:\n- Kevin Harris autographed boards\n- Maple Road skateboards\n- Powell Peralta Mountie Reissue\n- Skateboarding legend Kevin Harris\n- Autographed skateboard collection\n- Skateboarding memorabilia\n\n### 7. CONTENT GAPS:\n- Pricing details for each autographed deck\n- Information on deck materials, durability, and special features\n- Customer reviews or testimonials for credibility\n- Size availability and customization options for the decks\n- Additional details on the significance of the autographs and artwork\n\n### Actionable Insights:\n1. **Enhance Product Information:** Provide comprehensive details about each deck, including pricing, materials, dimensions, and special features to aid potential buyers in making informed decisions.\n   \n2. **Customer Engagement:** Incorporate customer reviews or testimonials to build trust and credibility among potential buyers.\n   \n3. **SEO Optimization:** Expand content with relevant keywords to improve search engine visibility and attract targeted traffic.\n   \n4. **Content Expansion:** Consider adding more details about Kevin Harris' influence on skateboarding, the history behind each deck design, and the significance of the autographs to create a more engaging narrative for visitors.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:45:05"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/USA\/steve-caballero\/",
+                "status": "success",
+                "title": "Steve Caballero Autographed Boards | SK8 Hall of Fame Steve Caballero Signed Skateboards Collection",
+                "description": "SK8HOF Store - SK8 Hall of Fame Steve Caballero Autographed decks Collection",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: USA, California Presenting: INFO Pro: Steve Caballero Powell Peralta Skate’s: 1978 - Present Steve Caballero is a legendary skateboarder renowned for his influential career with the Powell Peralta skateboarding team. VIDEO GALLERY Decks gallery Decks Collection Series number: SK8HOF0003 Enter The Dragon Caballero Artist Series Release #15 ONG Deck 9.2” X 31” Single 1 deck in stock. Limited edition Artist Series #15 by Steve Caballero features only 150 pieces. Color - Old Pink Stained wood Autograph by: Steve Caballero Artwork by: Steve Caballero $650 Powell Peralta Caballero Street Reissue ONG 4 Shaped Deck 9.6” X 30” Single 1 deck in stock. Powell-Peralta re-issue decks are close reproductions of their 1980’s shape & graphics. Color - Red\/Brown Stained wood Autograph by: Steve Caballero Artwork by: Vernon Courtlandt Johnson $450 Powell Peralta Caballero Ban This Reissue Street deck shape 9.3” X 32” Single 1 deck in stock. Powell-Peralta re-issue decks are close reproductions of their 1980’s shape & graphics. Yellow - Stained Wood. Autograph by: Steve Caballero Artwork by: Sean Cliver $450 Powell Peralta Caballero Mask Reissue LONG 4, Old school 9.75 X 31” Single 1 deck in stock. Powell-Peralta re-issue decks are close reproductions of their 1980’s shape & graphics. Color - Blacklight. Autograph by: Steve Caballero Artwork by: Sean Cliver $450 Apparel # # # © 2025 SK8HOF® All rights reserved. * Boards cost price platform is increasing by: General - $ 50 ( Example $300 ; $350 ; $400. . . ) BUY NOW        SERIAL # SK8HOF0003 ADD TO CART BUY NOW",
+                "meta_keywords": "Steve Caballero, Steve Caballero Autographed Skates, Steve Caballero Skateboards Autographed decks, Caballero Signed Skateboards, SK8 Hall of Fame, SK8HOF, Skateboard",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Steve Caballero  Powell Peralta"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Enter The Dragon\n                                Caballero\n                                Artist Series Release #15"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Powell Peralta\n                                Caballero\n                                Street Reissue"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Powell Peralta\n                                Caballero\n                                Ban This Reissue"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Powell Peralta\n                                Caballero\n                                Mask Reissue"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: USA, California Presenting: INFO Pro: Steve Caballero Powell Peralta Skate’s: 1978 - Present Steve Caballero is a legendary skateboarder renowned for his influential career with the Powell Peralta skateboarding team. VIDEO GALLERY Decks gallery Decks Collection Series number: SK8HOF0003 Enter The Dragon Caballero Artist Series Release #15 ONG Deck 9.2” ",
+                "content_length": 75147,
+                "text_length": 1739,
+                "word_count": 234,
+                "scanned_at": "2025-07-11 06:41:21",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is an online store dedicated to showcasing and selling autographed skateboard decks from Steve Caballero's collection. The main goal is to promote and sell these exclusive, limited edition boards to skateboarding enthusiasts and collectors.\n\n### 2. CONTENT SUMMARY:\nThe content includes information about Steve Caballero, his career with Powell Peralta, and details of the available autographed skateboard decks for sale. The page also features a video gallery showcasing the decks, their specifications, pricing, and the limited edition nature of the collection.\n\n### 3. KEY TOPICS:\n- Steve Caballero's career and influence in skateboarding\n- Autographed skateboard decks collection\n- Limited edition Artist Series releases\n- Powell Peralta reissue decks\n- Price details and availability of the boards\n\n### 4. TARGET AUDIENCE:\nThe content is intended for skateboarding enthusiasts, collectors, and fans of Steve Caballero who appreciate unique and limited edition skateboard memorabilia. It targets individuals interested in high-quality, autographed skateboards and nostalgic reissue decks.\n\n### 5. BUSINESS VALUE:\n- Drives sales by showcasing exclusive, limited edition merchandise.\n- Enhances brand reputation by offering unique collectibles.\n- Attracts and retains customers interested in premium skateboarding memorabilia.\n- Supports brand loyalty and engagement through autographed items from a skateboarding legend.\n\n### 6. KEYWORDS:\n- Steve Caballero autographed boards\n- Powell Peralta reissue decks\n- Limited edition skateboard decks\n- Skateboarding memorabilia\n- Collectible skateboards\n\n### 7. CONTENT GAPS:\n- **Customer Reviews\/Testimonials:** Adding feedback from previous buyers can build trust and credibility in the merchandise.\n- **Product Specifications:** More detailed information on materials, dimensions, and features can help customers make informed purchase decisions.\n- **Shipping Information:** Clear details on shipping costs, delivery times, and international shipping options could improve the user experience.\n- **Additional Products:** Including related merchandise, accessories, or apparel could expand the product range and cater to a wider audience. \n\nBy addressing these content gaps, the website can enhance user experience, improve credibility, and potentially increase sales. Regularly updating the content with new releases or collaborations can also keep the site fresh and encourage repeat visits.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:45:38"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/USA\/tony-hawk\/hawk-vs-wolf.php",
+                "status": "success",
+                "title": "Hawk VS Wolf | Tony Hawk VS Jason Ellis Autographed Board | SK8 Hall of Fame Collection",
+                "description": "SK8HOF Store - Hawk VS Wolf - Tony Hawk VS Jason Ellis Autographed limited edition GOLD deck at SK8 Hall of Fame",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: USA, San Diego Presenting: Hawk VS Wolf Pro: Tony Hawk & Jason Ellis The awesome podcast Hawk vs. Wolf presenters, radio personality Jason Ellis and professional skateboarder Tony Hawk, team up to bring weekly podcasting level up. Taking an in-depth look at skateboarding, music, and a behind the skateboarding scenes. GOLD Autographed deck size 8.1'' $850 ( * Market value $1250 ) Special Limited Edition Autographed deck by:Tony Hawk & Jason Ellis Deck INFO Series number: SK8HOFSP1 2 Decks ONLY Limited edition skateboard deck AUTOGRAPHED by Tony Hawk & Jason Ellis - hero hosts of the popular podcast Hawk vs. Wolf - Deck Size 8.1'' - Gold Foil Printed Deck. - Limited Edition of 100 pieces (non-numbered). Art by: The legendary Tim Baron. signature video Watch the signature video on # # # * Boards cost price platform is increasing by: GOLD Deck - $ 400 ( Next will be $1250 ) © 2025 SK8HOF® All rights reserved. Hawk VS Wolf GOLD Autographed deck size 8.1'' $850 ( * Market value $1250 ) BUY NOW        SERIAL # SK8HOFSP1 ADD TO CART BUY NOW",
+                "meta_keywords": "Hawk VS Wolf, Tony Hawk, Jason Ellis, Autographed Skate Board, Autographed limited edition GOLD deck, limited edition, GOLD Skateboard, SK8 Hall of Fame, SK8HOF",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Tony Hawk & Jason Ellis"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: USA, San Diego Presenting: Hawk VS Wolf Pro: Tony Hawk & Jason Ellis The awesome podcast Hawk vs. Wolf presenters, radio personality Jason Ellis and professional skateboarder Tony Hawk, team up to bring weekly podcasting level up. Taking an in-depth look at skateboarding, music, and a behind the skateboarding scenes. GOLD Autographed deck size 8.1'' $850 ( ",
+                "content_length": 59968,
+                "text_length": 1197,
+                "word_count": 179,
+                "scanned_at": "2025-07-11 06:41:21",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is dedicated to showcasing and selling a special limited edition GOLD autographed skateboard deck featuring Tony Hawk and Jason Ellis. The main goal of the page is to promote and sell this exclusive merchandise item from the SK8 Hall of Fame Collection.\n\n### 2. CONTENT SUMMARY:\nThe page introduces the Hawk VS Wolf limited edition autographed deck by Tony Hawk and Jason Ellis. It provides details about the deck, its series number, size, artwork, and pricing. It highlights the collaboration between Tony Hawk and Jason Ellis for the Hawk vs. Wolf podcast and their partnership in creating this special deck.\n\n### 3. KEY TOPICS:\n- Limited edition autographed skateboard deck featuring Tony Hawk & Jason Ellis\n- Collaboration between Tony Hawk and Jason Ellis for the Hawk vs. Wolf podcast\n- Deck specifications, series number, size, and artwork details\n- Pricing information and market value comparison\n- Artist information (Tim Baron) and deck design details\n\n### 4. TARGET AUDIENCE:\nThe content is likely intended for skateboarding enthusiasts, collectors of limited edition merchandise, fans of Tony Hawk and Jason Ellis, and individuals interested in exclusive collaborations in the skateboarding and podcasting industries.\n\n### 5. BUSINESS VALUE:\n- **Revenue Generation**: The page serves as a platform to promote and sell the exclusive autographed deck, potentially driving sales and revenue for SK8 Hall of Fame.\n- **Brand Collaboration**: Showcasing the collaboration between Tony Hawk and Jason Ellis enhances brand value and credibility, attracting fans and collectors.\n- **Market Positioning**: Offering limited edition merchandise at a special price compared to market value can create a sense of exclusivity and urgency, driving customer interest.\n\n### 6. KEYWORDS:\nPotential SEO keywords:\n- Tony Hawk\n- Jason Ellis\n- Autographed skateboard deck\n- Limited edition deck\n- SK8 Hall of Fame Collection\n- Hawk vs. Wolf podcast\n- Tim Baron artwork\n\n### 7. CONTENT GAPS:\n- **Product Details**: More detailed information about the materials used, manufacturing process, and care instructions for the deck could enhance the product description.\n- **Customer Testimonials**: Including reviews or testimonials from previous buyers could build trust and credibility for potential customers.\n- **Shipping and Return Policies**: Clear information on shipping costs, delivery times, and return policies could address common customer concerns and improve transparency. \n\nBy addressing these content gaps, the page could provide a more comprehensive and informative user experience, potentially leading to increased conversion rates and customer satisfaction.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:45:55"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/IL\/guy-nils\/",
+                "status": "success",
+                "title": "Guy NILS Zalmanovich | SK8HOF limited board SK8 Hall of Fame Collection",
+                "description": "SK8HOF Store - Guy NILS Zalmanovich Skateboard SK8 Hall of Fame private limited boards collection, Signup by Guy Nils and merchandise & apparel collection",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: ISRAEL Presenting: INFO Pro: Guy Zalmanovich (NILS) Skate’s: 1985 - 2003 The legendary kid who ruled the Israeli skateboard scene in the 80s trow the 90sGuy Zalmanovich AKA Guy Nils VIDEO GALLERY Special edition Series number: SK8HOF0001 Black Label Black Label Board 8.25\" x 32.463\"+ Custom T-shirt - 5 ps series only $750 ( * Market value $1000 ) Blue Label Blue Label Board 8.25\" x 32.463\" $300 ( * Market value $325 ) NFT GN NFT010 E ( $0 ) Apparel GNZ BL T-Shirt$ 0 GNZ B1 T-Shirt$ 80 GNZ W1 T-Shirt$ 80 # # # * Boards cost price platform is increasing by: Blue Label - $ 25 ( Example $300 ; $325 ; $350. . . ) Black Label - $ 250 ( Example $750 ; $1000 ; $1250. . . ) © 2025 SK8HOF® All rights reserved. BUY NOW        SERIAL # SK8HOF0001 ADD TO CART BUY NOW",
+                "meta_keywords": "Guy Nils Skateboard, Guy Zalmanovich Skate Board, Guy NILS Zalmanovich SK8HOF board, Guy Nils private collection, Guy Zalmanovich limited collection, Guy NILS Zalmanovich, Guy Zalmanovich, Guy Nils, SK8 Hall of Fame, SK8HOF",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Guy Zalmanovich (NILS)"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: ISRAEL Presenting: INFO Pro: Guy Zalmanovich (NILS) Skate’s: 1985 - 2003 The legendary kid who ruled the Israeli skateboard scene in the 80s trow the 90sGuy Zalmanovich AKA Guy Nils VIDEO GALLERY Special edition Series number: SK8HOF0001 Black Label Black Label Board 8.25\" x 32.463\"+ Custom T-shirt - 5 ps series only $750 ( * Market value $1000 ) Blue Lab",
+                "content_length": 87997,
+                "text_length": 915,
+                "word_count": 122,
+                "scanned_at": "2025-07-11 06:41:22",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is dedicated to showcasing and selling limited edition skateboard boards and merchandise from Guy Zalmanovich, also known as Guy Nils, featuring a special SK8 Hall of Fame collection. The main goal of the page is to attract skateboard enthusiasts and fans of Guy Nils to purchase these exclusive products.\n\n### 2. CONTENT SUMMARY:\nThe content on the page includes information about Guy Zalmanovich (NILS), a brief history of his skateboarding career, details about the special edition skateboard series available for purchase, pricing information, and links to the merchandise store, shipping info, about us, contact us, terms, and privacy policy sections.\n\n### 3. KEY TOPICS:\n- Guy Zalmanovich (NILS) and his skateboarding career\n- SK8 Hall of Fame Collection\n- Limited edition skateboard series (Black Label, Blue Label)\n- NFT GN NFT010 E\n- Apparel merchandise (T-shirts)\n- Pricing information and market value\n- Serial numbers and product details\n\n### 4. TARGET AUDIENCE:\nThe content is intended for skateboard enthusiasts, collectors of limited edition items, fans of Guy Nils, and individuals interested in skateboarding memorabilia. The audience is likely to be familiar with skateboarding culture and may appreciate exclusive and premium products.\n\n### 5. BUSINESS VALUE:\n- **Revenue Generation:** By offering exclusive limited edition skateboard boards and merchandise, the page aims to drive sales and generate revenue.\n- **Brand Promotion:** Showcasing Guy Zalmanovich's collection can enhance brand visibility and attract a niche audience interested in skateboarding.\n- **Customer Engagement:** Providing detailed product information and pricing helps engage potential customers and encourages them to make a purchase.\n\n### 6. KEYWORDS:\nPotential SEO keywords could include:\n- Guy Zalmanovich\n- SK8 Hall of Fame Collection\n- Limited edition skateboards\n- Skateboard merchandise\n- Exclusive skateboarding products\n- NFT GN NFT010 E\n\n### 7. CONTENT GAPS:\n- **Product Descriptions:** More detailed descriptions of the products, materials used, and unique features could enhance the appeal to potential buyers.\n- **Customer Reviews\/Testimonials:** Including feedback from previous customers can build trust and credibility.\n- **Sizing Information:** Providing details on sizes available for apparel items could help customers make informed purchase decisions.\n- **Shipping and Return Policy:** Clear information on shipping costs, delivery times, and return policies could improve the customer experience.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:46:10"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/USA\/frankie-hill\/",
+                "status": "success",
+                "title": "Frankie Hill SK8HOF Autographed Boards | SK8 Hall of Fame Frankie Hill Signed Skateboards Collection",
+                "description": "SK8HOF Store - SK8 Hall of Fame Frankie Hill Autographed decks Collection",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: USA, California Presenting: INFO Pro: Frankie Hill - Hill Skateboards Skate’s: 1982 - Present Frankie Hill, a name synonymous with the skateboarding golden era, is a legendary skater who rose to prominence as a member of the world-renowned skate team, Powell Peralta. VIDEO GALLERY Decks gallery Decks Collection Series number: SK8HOF0002 Bulldog Cowboy Hill OG Shaped Deck 9.0” X 31” 2 decks out of only 50 made by Hill Skatehoars. Front - Stained wood sky blue Back - Wood Art work by - Frankie Hill $300 Robot Cowboy Hill OG Shaped Deck 9.0” X 31” 1 decks out of only 50 made by Hill Skatehoars. Orange - Stained Wood. Art work by: Mark Kowalchuk $350 Cowboy Frankie Hill OG Shaped Deck 9.0” X 31” 2 decks from Hill Skatehoars Collection Purple - Opaque Color. Art work by: Frankie Hill $300 Apparel Hill.S CS T-Shirt$ 0 Hill.S CS T-Shirt$ 0 Hill.S CS T-Shirt$ 0 # # # * Boards cost price platform is increasing by: General - $ 50 ( Example $300 ; $350 ; $400. . . ) BUY NOW        SERIAL # SK8HOF0002 ADD TO CART BUY NOW © 2025 SK8HOF® All rights reserved.",
+                "meta_keywords": "Frankie Hill, Hill Skateboards, Frankie Hill Autographed Skates, Frankie Hill Skateboards Autographed decks, Hill Skateboards Signed Skateboards, SK8HOF, SK8 Hall of Fame, Skateboard",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Frankie Hill - Hill Skateboards"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Bulldog\n                                Cowboy Hill"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Robot\n                                Cowboy Hill"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Cowboy\n                                Frankie Hill"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: USA, California Presenting: INFO Pro: Frankie Hill - Hill Skateboards Skate’s: 1982 - Present Frankie Hill, a name synonymous with the skateboarding golden era, is a legendary skater who rose to prominence as a member of the world-renowned skate team, Powell Peralta. VIDEO GALLERY Decks gallery Decks Collection Series number: SK8HOF0002 Bulldog Cowboy Hil",
+                "content_length": 64920,
+                "text_length": 1223,
+                "word_count": 184,
+                "scanned_at": "2025-07-11 06:41:23",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is dedicated to showcasing and selling autographed skateboards from the legendary skater Frankie Hill. Its main goal is to promote and sell the exclusive Frankie Hill signed skateboards collection available at SK8HOF Store. The page aims to attract skateboarding enthusiasts and collectors interested in owning limited-edition decks.\n\n### 2. CONTENT SUMMARY:\nThe content on the page provides information about Frankie Hill, his association with Hill Skateboards, and the limited-edition autographed skateboard collection available for purchase. It includes details about the decks, their unique designs, pricing, and availability. Additionally, the page features links to the store, video gallery, merchandise, shipping info, and other relevant sections.\n\n### 3. KEY TOPICS:\n- Frankie Hill's skateboarding career and affiliation with Hill Skateboards\n- Limited-edition autographed skateboard collection\n- Deck designs and artists involved\n- Pricing and availability\n- Store navigation and related sections like video gallery, merchandise, and shipping info\n\n### 4. TARGET AUDIENCE:\nThe content is intended for skateboarding enthusiasts, collectors, and fans of Frankie Hill who are interested in owning exclusive and autographed skateboards. The page targets individuals with a passion for skateboarding memorabilia and limited-edition merchandise.\n\n### 5. BUSINESS VALUE:\n- Showcasing exclusive autographed skateboards can attract collectors and fans, leading to increased sales and revenue.\n- Providing detailed information about the decks and their uniqueness can create a sense of exclusivity and drive interest among potential customers.\n- Offering a video gallery and merchandise options can enhance user engagement and encourage repeat visits to the site.\n\n### 6. KEYWORDS:\n- Frankie Hill\n- Autographed skateboards\n- Limited edition decks\n- Skateboarding memorabilia\n- Hill Skateboards\n- SK8HOF Store\n\n### 7. CONTENT GAPS:\n- The page lacks specific details about the materials used in the decks, manufacturing process, and any special features that make them unique.\n- More information about the artists involved in creating the deck designs could add value and appeal to potential buyers.\n- Testimonials or reviews from customers who have purchased autographed skateboards could help build trust and credibility.\n- Including information about the authenticity of the autographs and any certification processes could address potential customer concerns regarding the legitimacy of the products.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:46:29"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/artists\/tzukit_shoval\/",
+                "status": "success",
+                "title": "Tzukiti Shoval - Sneaker artist | SK8HOF - SK8 Hall of Fame Collection",
+                "description": "SK8HOF Store | Tzukiti Shoval - Sneaker hand painting artist collection merchandise | SK8 Hall of Fame Collection",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: IL, Tel Aviv Presenting: SK8ART0001 Tzukiti Shoval From: SHOETZ 2015 - Present Pop culture sneakers hand-paint artist from Tel Aviv presenting the SHOETZ sneakers collection. HAMMERED HOMER : $440 SHENRON DRAGON : $440 SMOKY RAW : $490 DRAGON Ball : $550 GOOFY : $490 ONE PIECE : $565 RICK & MORTY : $415 AVATAR B&W : $500 KAKASHI : $440 BLACK & WHITE : $415 # # # * All products are supplied by Shoetz as an external supplier and under his responsibility. Delivery Important note SK8HOF Shoetz collection is hand-maid by Tzukiti Shoval, each order is tailored precisely to your specifications as outlined on your order. IL FREE GroundDelivery Time: 30-45 business days. Price: Free USA Air Delivery    Time: 45-55 business days. Price: $60 EUR Air Delivery    Time: 45-55 business days. Price: $60 Please note \/\/\/\/\/\/\/\/\/Custom orders are non-refundable and cannot be canceled once it's placed. © 2025 SK8HOF® All rights reserved.",
+                "meta_keywords": "Tzukiti Shoval, Sneaker artist, Sneaker hand painting, Tzukiti Shoval Sneaker Collection, SK8 Hall of Fame, SK8HOF, , Skate Hall of Fame, SK8HOF Sneaker artist",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Tzukiti Shoval"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy From: IL, Tel Aviv Presenting: SK8ART0001 Tzukiti Shoval From: SHOETZ 2015 - Present Pop culture sneakers hand-paint artist from Tel Aviv presenting the SHOETZ sneakers collection. HAMMERED HOMER : $440 SHENRON DRAGON : $440 SMOKY RAW : $490 DRAGON Ball : $550 GOOFY : $490 ONE PIECE : $565 RICK & MORTY : $415 AVATAR B&W : $500 KAKASHI : $440 BLACK & WHITE : $415 ",
+                "content_length": 49211,
+                "text_length": 1076,
+                "word_count": 145,
+                "scanned_at": "2025-07-11 06:41:23",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page is dedicated to showcasing Tzukiti Shoval's sneaker art collection under the SK8HOF brand. The main goal is to promote and sell the hand-painted sneakers created by Tzukiti Shoval through the SK8HOF Store.\n\n### 2. CONTENT SUMMARY:\nThe content provides information about Tzukiti Shoval, a sneaker artist from Tel Aviv, presenting his SHOETZ sneaker collection. It includes details about the featured sneakers, their prices, and the delivery options available for customers. The page emphasizes the uniqueness of each order being tailored to the customer's specifications.\n\n### 3. KEY TOPICS:\n- Tzukiti Shoval's sneaker art collection\n- Pricing of the hand-painted sneakers\n- Delivery options and timeframes\n- Customization and non-refundable orders policy\n\n### 4. TARGET AUDIENCE:\nThe content is likely intended for sneaker enthusiasts, collectors, and individuals interested in unique, hand-painted footwear. It targets those willing to invest in customized and artistic sneakers, specifically fans of Tzukiti Shoval's work.\n\n### 5. BUSINESS VALUE:\n- Showcasing and selling exclusive merchandise.\n- Building brand reputation and recognition through collaboration with renowned artists.\n- Providing customization options to attract customers looking for personalized products.\n- Establishing a niche market for artistic sneaker collections.\n\n### 6. KEYWORDS:\nPotential SEO keywords could include:\n- Sneaker artist\n- Hand-painted sneakers\n- Tzukiti Shoval collection\n- SK8HOF Store\n- Customized sneakers\n- Sneaker art collection\n\n### 7. CONTENT GAPS:\n- Customer testimonials or reviews could enhance credibility and trust in the products.\n- More detailed information about Tzukiti Shoval's background, artistry process, or inspiration could engage visitors.\n- Information on sizing, materials used, and care instructions for the sneakers could aid in the purchasing decision.\n- Links to Tzukiti Shoval's social media accounts or previous collaborations may provide additional context and promotion avenues.\n\nBy addressing these content gaps and optimizing for user engagement, SEO, and conversion, the webpage can further enhance its appeal and effectiveness in reaching its target audience and achieving its business goals.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:46:44"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/store-shad-neg.php",
+                "status": "success",
+                "title": "SK8HOF | SK8 Hall of Fame Shadow Negative T-Shirt Collection",
+                "description": "SK8HOF Shadow Negative T-Shirt collection - SK8 Hall of Fame Skateboard private limited boards collection, Signup by the pro skaters and a Brand merchandise & apparel shopping store",
+                "all_text_content": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy Shadow Negative DRAGON Basic T-Shirt : $80 Shadow Negative viking Basic T-Shirt : $80 Shadow Negative Joker Basic T-Shirt : $80 © 2025 SK8HOF® All rights reserved. STORE SHADOW NEGATIVE",
+                "meta_keywords": "Skateboard, Skate Board, sk8, sk8hof, SK8 Hall of Fame, Skate Hall of Fame, Skateboard private collection, Skateboard limited collection, SK8HOF apparel collection print on Ddickies, SK8 Hall of Fame print on Ddickies T-Shirts",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "STORE\n                SHADOW NEGATIVE"
+                    },
+                    {
+                        "level": 2,
+                        "text": "DRAGON\n                    Basic T-Shirt : $80"
+                    },
+                    {
+                        "level": 2,
+                        "text": "viking\n                    Basic T-Shirt : $80"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Joker\n                    Basic T-Shirt : $80"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home+ SK8HOF Store+ Metaverse Collection+ Vans Custom+ Shipping Info+ About Us+ Contact Us+ Terms+ Privacy Shadow Negative DRAGON Basic T-Shirt : $80 Shadow Negative viking Basic T-Shirt : $80 Shadow Negative Joker Basic T-Shirt : $80 © 2025 SK8HOF® All rights reserved. STORE SHADOW NEGATIVE",
+                "content_length": 33371,
+                "text_length": 314,
+                "word_count": 41,
+                "scanned_at": "2025-07-11 06:41:24",
+                "scan_type": "full",
+                "gpt_analysis": "### 1. PAGE PURPOSE:\nThe page showcases the \"SK8HOF Shadow Negative T-Shirt Collection\" and serves as an online store for SK8 Hall of Fame merchandise, particularly featuring T-shirts with shadow negative designs. The main goal is to attract customers to purchase these exclusive skateboard-themed T-shirts.\n\n### 2. CONTENT SUMMARY:\nThe content mainly consists of links to various sections like Home, SK8HOF Store, Metaverse Collection, Vans Custom, Shipping Info, About Us, Contact Us, Terms, and Privacy. The highlighted section showcases three types of Shadow Negative T-Shirts named Dragon, Viking, and Joker, each priced at $80. The footer includes copyright information for SK8HOF.\n\n### 3. KEY TOPICS:\n- SK8HOF Shadow Negative T-Shirt Collection\n- Different T-Shirt designs (Dragon, Viking, Joker)\n- Merchandise store\n- Brand information and copyright details\n\n### 4. TARGET AUDIENCE:\nThe content is likely targeted towards skateboarding enthusiasts, fans of SK8 Hall of Fame, and individuals interested in unique, high-quality T-shirts with a skateboarding theme. The audience may include skateboarders, collectors of skate merchandise, and fashion-conscious individuals.\n\n### 5. BUSINESS VALUE:\n- Showcasing exclusive merchandise to attract potential customers.\n- Brand promotion and awareness through the SK8HOF collection.\n- Revenue generation through T-shirt sales.\n- Building customer loyalty and brand identity within the skateboarding community.\n\n### 6. KEYWORDS:\nPotential SEO keywords could include:\n- SK8HOF Shadow Negative T-Shirt Collection\n- SK8 Hall of Fame\n- Skateboard merchandise\n- Shadow Negative T-Shirts\n- Skateboarding apparel store\n\n### 7. CONTENT GAPS:\n- Lack of detailed product descriptions: Descriptions outlining the unique features or materials used in the T-shirts could help in conversion.\n- Missing sizing information: Providing size options and a size guide can enhance the user experience and reduce returns.\n- Absence of customer reviews or testimonials: Including feedback from customers can build trust and credibility.\n- Limited storytelling or brand narrative: Incorporating a story behind the collection could create a stronger emotional connection with the audience.\n\n### Actionable Insights:\n1. Enhance product descriptions with details on design inspiration, fabric quality, and care instructions.\n2. Include sizing charts to assist customers in choosing the right fit.\n3. Implement a review section to showcase customer feedback and build trust.\n4. Develop a brand story or narrative to engage customers and differentiate the SK8HOF collection.\n5. Consider expanding the product range to offer more variety and cater to different preferences within the target audience.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:46:58"
+            },
+            {
+                "url": "https:\/\/sk8hof.com\/artists\/dragon_collection\/",
+                "status": "success",
+                "title": "SK8HOF Dragon T-Shirt Collection | Streetwear Fashion | Skate Hall of Fame",
+                "description": "Streetwear dragon T-Shirt collection by SK8HOFÂ Skate Hall of Fame Private limited Skateboarding brand",
+                "all_text_content": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy SK8COLL01 Dragon Collection From: SK8HOF Custom-made order print SK8HOF Dragons T-Shirt Collection DRAGON Rome Dragon : $95 Dragon Bones : $95 BarbedWire : $95 Sky Dragon : $95 Green Metal : $95 Dragon Takeover : $95 Legends Path : $95 # # # * Made with love by: SK8HOFÂ® * Apparel delivering time info Click Here > © 2025 SK8HOFÂ® All rights reserved.",
+                "meta_keywords": "Dragon T-Shirt Collection, SK8HOF, SK8HOF Collection, Skate Hall of Fame, Dragon Collection, T-Shirt, Print on Dickies, Skateboard Apparel Collection, sk8, sk8hof, SK8HOF apparel collection, Private collection, Streetwear Fashion, SK8 Hall of Fame",
+                "headings": [
+                    {
+                        "level": 1,
+                        "text": "Dragon Collection"
+                    }
+                ],
+                "content_preview": "Merchandise STORE + Home + SK8HOF Store + Metaverse Collection + Vans Custom + Shipping Info + About Us + Contact Us + Terms + Privacy SK8COLL01 Dragon Collection From: SK8HOF Custom-made order print SK8HOF Dragons T-Shirt Collection DRAGON Rome Dragon : $95 Dragon Bones : $95 BarbedWire : $95 Sky Dragon : $95 Green Metal : $95 Dragon Takeover : $95 Legends Path : $95 # # # * Made with love by: SK8HOFÂ® * Apparel delivering time info Click Here > © 2025 SK8HOFÂ® All rights reserved.",
+                "content_length": 47442,
+                "text_length": 492,
+                "word_count": 64,
+                "scanned_at": "2025-07-11 06:41:24",
+                "scan_type": "full",
+                "gpt_analysis": "## 1. PAGE PURPOSE:\nThe page is dedicated to showcasing the SK8HOF Dragon T-Shirt Collection. The main goal of the page is to promote and sell the dragon-themed merchandise from SK8HOF's streetwear fashion line.\n\n## 2. CONTENT SUMMARY:\nThe content primarily consists of a list of dragon-themed T-shirts available for purchase, each with a different design and price point. The page also includes links to the SK8HOF store, information on custom-made orders, and copyright details. The content is focused on promoting the dragon collection and providing information on pricing and delivery.\n\n## 3. KEY TOPICS:\n- SK8HOF Dragon T-Shirt Collection\n- Various designs and prices of dragon-themed T-shirts\n- Custom-made order print\n- Apparel delivery information\n\n## 4. TARGET AUDIENCE:\nThe content is intended for fashion enthusiasts, streetwear lovers, and skateboarding fans who are interested in unique and trendy apparel. The target audience may also include individuals looking for custom-made clothing options and those specifically interested in dragon-themed fashion.\n\n## 5. BUSINESS VALUE:\n- Promotes SK8HOF's streetwear fashion line\n- Drives sales by showcasing the dragon collection and providing pricing information\n- Enhances brand visibility and awareness among the target audience\n- Potentially attracts new customers interested in streetwear and skateboarding fashion\n\n## 6. KEYWORDS:\n- SK8HOF Dragon T-Shirt Collection\n- Streetwear fashion\n- Skate Hall of Fame\n- Skateboarding brand\n- Custom-made order print\n- Dragon-themed merchandise\n\n## 7. CONTENT GAPS:\n- Product Descriptions: Detailed descriptions of each T-shirt design could enhance the customer's understanding of the product and potentially increase purchase intent.\n- Sizing Information: Including size charts or guidance on how to choose the right size could improve the shopping experience for customers.\n- Customer Reviews\/Testimonials: Adding testimonials or reviews from customers who have purchased and enjoyed the products could build trust and credibility.\n- Social Proof: Incorporating social media feeds or user-generated content featuring the dragon collection could create a sense of community and increase engagement.",
+                "gpt_analyzed": true,
+                "gpt_analyzed_at": "2025-07-11 06:41:48"
+            }
+        ],
+        
+        "last_scan_at": "2025-07-11 06:41:25"
+    },
+	
+	"questionnaire": [
+        {
+            "total_topics": 3,
+            "total_qnas": 96,
+            "topics_summary": [
+                {
+                    "topic_slug": "streetwear-fashion",
+                    "topic_title": "Fashion",
+                    "qnas_count": 34
+                },
+                {
+                    "topic_slug": "metaverse-sk8hof",
+                    "topic_title": "Metaverse",
+                    "qnas_count": 29
+                },
+                {
+                    "topic_slug": "skateboard-sk8hof",
+                    "topic_title": "Skateboard",
+                    "qnas_count": 33
+                }
+            ],
+            "questionnaire_by_topic": {
+                "streetwear-fashion": {
+                    "topic_id": "3",
+                    "topic_title": "Fashion",
+                    "topic_slug": "streetwear-fashion",
+                    "topic_description": "SK8hof Streetwear fashion collection topics",
+                    "qnas_count": 34,
+                    "qnas": [
+                        {
+                            "question": "What materials are used in the SK8hof Streetwear fashion collection?",
+                            "answer": "We use Dickies products and will soon be adding Carhartt products."
+                        },
+                        {
+                            "question": "Can I return or exchange items from the SK8hof Streetwear collection?",
+                            "answer": "Yes, you are welcome to refer to the terms of use on the site, where all the details are detailed."
+                        },
+                        {
+                            "question": "Are there any size guides available for the SK8hof Streetwear collection?",
+                            "answer": "Not yet, we will add soon"
+                        },
+                        {
+                            "question": "How often do you release new items in the SK8hof Streetwear fashion collection?",
+                            "answer": "Occasionally, we don\\'t have set times."
+                        },
+                        {
+                            "question": "Are there any promotions or discounts for the SK8hof Streetwear collection?",
+                            "answer": "Not, at this moment...."
+                        },
+                        {
+                            "question": "Can I find SK8hof Streetwear fashion collection items in physical stores or is it only available online?",
+                            "answer": "only available online"
+                        },
+                        {
+                            "question": "Are there any collaborations with artists or designers in the SK8hof Streetwear fashion collection?",
+                            "answer": "Yes, there will be many collections from artists in the clothing industry related to style.\r\nSkateboarding\r\nStreetwear fashion"
+                        },
+                        {
+                            "question": "How can I stay updated on new releases and restocks for the SK8hof Streetwear fashion collection?",
+                            "answer": "you can follow us in instegram - @sk8hof"
+                        },
+                        {
+                            "question": "Are the SK8hof Streetwear fashion collection items limited edition or part of a continuous line?",
+                            "answer": "We have both limited-edition items and regular brand items\r\nAll of our items are numbered and have a number on the item\r\nFor each item ordered we send a certificate of ownership with the item number and model"
+                        },
+                        {
+                            "question": "Do you offer international shipping for orders from the SK8hof Streetwear fashion collection?",
+                            "answer": "Yes, our center of operations is in Israel but we also ship anywhere in the world\r\nmainly to the United States and Europe"
+                        },
+                        {
+                            "question": "What is your T-shirt brand you print on?",
+                            "answer": "We print on traditional Dickies Products"
+                        },
+                        {
+                            "question": "What type of streetwear fashion items does SK8HOF offer?",
+                            "answer": "T-shirts, Hats, Hoodies, Sneakers"
+                        },
+                        {
+                            "question": "Are the branded T-shirts and streetwear from SK8HOF limited edition?",
+                            "answer": "Some do and some not"
+                        },
+                        {
+                            "question": "How can I purchase the exclusive brand merchandise from SK8HOF?",
+                            "answer": "Visit our site - https:\/\/sk8hof.com\/"
+                        },
+                        {
+                            "question": "Do you have a size guide available for your streetwear fashion collection?",
+                            "answer": "Not yet. We will work on it and update on the site soon"
+                        },
+                        {
+                            "question": "Are the streetwear items from SK8HOF unisex or gender-specific?",
+                            "answer": "all SK8HOF products are unisex"
+                        },
+                        {
+                            "question": "Can I find any accessories in addition to streetwear fashion on SK8HOF's website?",
+                            "answer": "Hats and Sneakers can be considered as accessories"
+                        },
+                        {
+                            "question": "Do you collaborate with any pro skaters for your streetwear fashion line?",
+                            "answer": "Some Yes and some Not"
+                        },
+                        {
+                            "question": "How often does SK8HOF release new streetwear fashion collections?",
+                            "answer": "We upload new items every other time"
+                        },
+                        {
+                            "question": "Are the streetwear items from SK8HOF machine washable?",
+                            "answer": "We have alot of T-shirts item avatars washable and real ones matching for their owners"
+                        },
+                        {
+                            "question": "Can I find streetwear fashion pieces inspired by skate culture on your website?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Are there any discounts or promotions offered on SK8HOF\\'s streetwear fashion collection?",
+                            "answer": "Not at this time, Follow our Instagram to be informed at sk8hof.com"
+                        },
+                        {
+                            "question": "Can I return or exchange streetwear items purchased from SK8HOF?",
+                            "answer": "Yes, you can return items that stayed in the original packaging and have not been worn"
+                        },
+                        {
+                            "question": "Are the designs of SK8HOF\\'s streetwear fashion collection exclusive and unique?",
+                            "answer": "Only unique items will be in our collection"
+                        },
+                        {
+                            "question": "How can I stay updated on new releases in SK8HOF\\'s streetwear fashion line?",
+                            "answer": "Follow our Instagram to be updated - https:\/\/www.instagram.com\/sk8hof\/"
+                        },
+                        {
+                            "question": "Are the streetwear items from SK8HOF suitable for everyday wear?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Do you offer customization options for the streetwear pieces available on your website?",
+                            "answer": "No"
+                        },
+                        {
+                            "question": "Are the streetwear fashion items from SK8HOF ethically sourced and produced?",
+                            "answer": "Absolutely"
+                        },
+                        {
+                            "question": "Can I find vintage-inspired streetwear pieces in SK8HOF\\'s collection?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Are there any celebrity endorsements for SK8HOF\\'s streetwear fashion line?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Are there any virtual try-on options available for the streetwear items on your website?",
+                            "answer": "Not yet"
+                        },
+                        {
+                            "question": "Can I find limited edition collaborations with other brands in SK8HOF\\'s streetwear collection?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Are the streetwear fashion pieces from SK8HOF designed to be durable for skateboarding activities?",
+                            "answer": "Most definitely... They are made for skaters"
+                        },
+                        {
+                            "question": "Do you offer any subscription services for receiving regular updates on SK8HOF\\'s streetwear fashion releases?",
+                            "answer": "Not yet, follow us on Instagram - @sk8hof for receiving updates on SK8HOF\\'s streetwear fashion releases"
+                        }
+                    ],
+                    "topic_created_at": "2025-06-26 10:42:23"
+                },
+                "metaverse-sk8hof": {
+                    "topic_id": "4",
+                    "topic_title": "Metaverse",
+                    "topic_slug": "metaverse-sk8hof",
+                    "topic_description": "SK8hof involvement in the Metaverse platform",
+                    "qnas_count": 29,
+                    "qnas": [
+                        {
+                            "question": "What is the Metaverse?",
+                            "answer": "A 3d environment with lots of interesting things to do and experience on the new Internet."
+                        },
+                        {
+                            "question": "How is the Metaverse different from virtual reality?",
+                            "answer": "Virtual reality is a technology that immerses users in a 3D environment, while the Metaverse is a connected digital universe made up of many such environments where users can interact, create, and live digital lives."
+                        },
+                        {
+                            "question": "Are there any companies currently working on creating the Metaverse?",
+                            "answer": "Of course there are plenty of companies"
+                        },
+                        {
+                            "question": "How will the Metaverse impact our daily lives?",
+                            "answer": "The Metaverse will change how we work, socialize, shop, and learn—blending physical and digital life into one seamless experience."
+                        },
+                        {
+                            "question": "Do you have a Roblox wearables collection?",
+                            "answer": "Yes, we have a general SK8HOF wearables collection and some pro skaters\\' items on Roblox"
+                        },
+                        {
+                            "question": "What is the Metaverse experience offered by SK8HOF?",
+                            "answer": "Wearable collection"
+                        },
+                        {
+                            "question": "How can I access SK8HOF's Metaverse platforms?",
+                            "answer": "follow us at Roblox - https:\/\/www.roblox.com\/users\/4566909608\/profile"
+                        },
+                        {
+                            "question": "Are there any special requirements to participate in SK8HOF's Metaverse events?",
+                            "answer": "Not, Just be connected to the metaverse platform"
+                        },
+                        {
+                            "question": "What kind of activities can I expect in the SK8HOF Metaverse?",
+                            "answer": "Coming soon a skaters games"
+                        },
+                        {
+                            "question": "How does SK8HOF integrate skateboarding culture into the Metaverse?",
+                            "answer": "Matching avaters shirt to a real printed t-shirts"
+                        },
+                        {
+                            "question": "Can I purchase exclusive merchandise in the SK8HOF Metaverse?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Are there virtual skateboarding competitions hosted by SK8HOF in the Metaverse?",
+                            "answer": "Not yet"
+                        },
+                        {
+                            "question": "What types of virtual interactions can I have with pro skaters in the SK8HOF Metaverse?",
+                            "answer": "At this moment not"
+                        },
+                        {
+                            "question": "How often does SK8HOF update its Metaverse content?",
+                            "answer": "With new collection"
+                        },
+                        {
+                            "question": "Is there a membership fee to join the SK8HOF Metaverse community?",
+                            "answer": "No"
+                        },
+                        {
+                            "question": "How can I meet other skateboarding enthusiasts in the SK8HOF Metaverse?",
+                            "answer": "You can find us at Roblox in the SK8HOF store"
+                        },
+                        {
+                            "question": "What makes the SK8HOF Metaverse experience unique compared to others?",
+                            "answer": "We have a few activities but the coolest ones are to have your real t-shirt similar to your avatars"
+                        },
+                        {
+                            "question": "Can I preview SK8HOF Metaverse experiences before signing up?",
+                            "answer": "You can browse our wearable collection on our site at - https:\/\/sk8hof.com\/store_meta.php"
+                        },
+                        {
+                            "question": "Are there any age restrictions for participating in the SK8HOF Metaverse?",
+                            "answer": "No"
+                        },
+                        {
+                            "question": "How secure is the SK8HOF Metaverse platform?",
+                            "answer": "All the security issues are due to the different Metaverse platforms online"
+                        },
+                        {
+                            "question": "What equipment do I need to fully enjoy the SK8HOF Metaverse experiences?",
+                            "answer": "Online connection only"
+                        },
+                        {
+                            "question": "Can I contribute or suggest ideas for new Metaverse experiences to SK8HOF?",
+                            "answer": "Of course... Feel free to drop us any tips or suggestions you think will be cool to have"
+                        },
+                        {
+                            "question": "How do I report issues or get support while in the SK8HOF Metaverse?",
+                            "answer": "You can use the platform support"
+                        },
+                        {
+                            "question": "Are there any exclusive events or launches that happen only in the SK8HOF Metaverse?",
+                            "answer": "Yes, Follow us on the social media platforms"
+                        },
+                        {
+                            "question": "How can I stay updated on the latest Metaverse events and releases from SK8HOF?",
+                            "answer": "Follow us on the social media platforms and our website to be updated"
+                        },
+                        {
+                            "question": "Is there a community forum or social platform for SK8HOF Metaverse users to connect?",
+                            "answer": "Not yet, we are planning to open a few in the near future"
+                        },
+                        {
+                            "question": "Can I interact with digital versions of the signed skateboard decks in the Metaverse?",
+                            "answer": "Not yet, Maybe in the future"
+                        },
+                        {
+                            "question": "Are there tutorials or guides available for new users in the SK8HOF Metaverse?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "What is the vision behind SK8HOF\\'s involvement in the Metaverse?",
+                            "answer": "We believe the Metaverse represents the future of the internet. In the coming years, it\\'s clear that online experiences will evolve into immersive 3D environments. SK8HOF\\'s vision is to lead this transformation by bringing skate culture into the Metaverse—authentic, creative, and community-driven."
+                        }
+                    ],
+                    "topic_created_at": "2025-06-27 10:41:59"
+                },
+                "skateboard-sk8hof": {
+                    "topic_id": "5",
+                    "topic_title": "Skateboard",
+                    "topic_slug": "skateboard-sk8hof",
+                    "topic_description": "The core business industry of SK8HOF company brand",
+                    "qnas_count": 33,
+                    "qnas": [
+                        {
+                            "question": "Can you explain the different riding styles for skateboarding such as \"regular\" and \"goofy\"?",
+                            "answer": "We love them both."
+                        },
+                        {
+                            "question": "How has skateboarding evolved into a lifestyle beyond being just a sport?",
+                            "answer": "Because of the unique skills you need makes you special"
+                        },
+                        {
+                            "question": "What values and life lessons does the SK8HOF community associate with skateboarding?",
+                            "answer": "We live, breathe, and dream skateboarding and we are building a list of the greatest riders - the Skateboarding Hall of Fame in Israel and around the world."
+                        },
+                        {
+                            "question": "What are the different types of skateboards available, and how do they differ from each other?",
+                            "answer": "We sell only autographed boards by Hall of Fame skaters"
+                        },
+                        {
+                            "question": "Does SK8HOF offer a guide for choosing the right size and type of skateboard for beginners?",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "What are the most significant skateboard brands in the industry as listed by SK8HOF?",
+                            "answer": "Powell Peralta legendary team and more to come soon..."
+                        },
+                        {
+                            "question": "What types of skateboard products does SK8HOF offer in their online store?",
+                            "answer": "Pro Skaters Autograph decks, T-Shirts, Traditional Dickies work shirt.\r\nAnd more..."
+                        },
+                        {
+                            "question": "How can I find out more about the professional skaters associated with SK8HOF and their autograph decks?",
+                            "answer": "On our site you can find on the home page the list of all the pro skaters we have there autograph decks to purchase"
+                        },
+                        {
+                            "question": "Do you have any exclusive collaborations with streetwear fashion brands related to skateboarding?",
+                            "answer": "Yes, we are partnering with artists who create a unique line of merchandise on top our line of clothing"
+                        },
+                        {
+                            "question": "Can you explain how SK8HOF is involved in the metaverse and what opportunities it offers for skateboard enthusiasts?",
+                            "answer": "We already have a base and we are doing many more activities down the road\r\nYou can also search for us on ROBLOX - https:\/\/www.roblox.com\/users\/4566909608\/profile"
+                        },
+                        {
+                            "question": "What types of skateboard decks do you offer at SK8HOF?",
+                            "answer": "Only autographed decks by pro skaters"
+                        },
+                        {
+                            "question": "Are all your skateboard decks autographed by professional skaters?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "How can I verify the authenticity of the autographs on your skateboard decks?",
+                            "answer": "We do it for you, We purchase decks only from the skaters themselves or from authorized dealer only."
+                        },
+                        {
+                            "question": "Can I request a skateboard deck signed by a specific pro skater?",
+                            "answer": "Not at this moment maybe in the future."
+                        },
+                        {
+                            "question": "What makes your skateboard decks different from others available on the market?",
+                            "answer": "There is no difference with us, you can get from us an authenticated SK8HOF purchase document"
+                        },
+                        {
+                            "question": "How often do you release new skateboard decks at SK8HOF?",
+                            "answer": "From time to time... Stay tuned and follow our Instagram @sk8hof"
+                        },
+                        {
+                            "question": "Do you collaborate with any pro skaters for exclusive skateboard designs?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "Are the skateboard decks at SK8HOF suitable for actual skating or just for collection?",
+                            "answer": "Of course, you can skate on the board, but it would be too expensive =)"
+                        },
+                        {
+                            "question": "How do I care for and maintain my autographed skateboard deck?",
+                            "answer": "Keep it hanging on the wall without much exposure to the sun."
+                        },
+                        {
+                            "question": "Can I customize a skateboard deck when I order from SK8HOF?",
+                            "answer": "No"
+                        },
+                        {
+                            "question": "What sizes of skateboard decks are available at SK8HOF?",
+                            "answer": "Native skateboard and freestyle skateboard"
+                        },
+                        {
+                            "question": "How do I purchase a limited-edition skateboard deck from your collection?",
+                            "answer": "On the site you can see all the decks inside each skaters page and from there it is simple."
+                        },
+                        {
+                            "question": "What are the price ranges for your skateboard decks?",
+                            "answer": "from 300$ and Up...."
+                        },
+                        {
+                            "question": "Are there any special editions or rare skateboard decks available at SK8HOF?",
+                            "answer": "Absolutely"
+                        },
+                        {
+                            "question": "How can I check the availability of a specific skateboard deck at SK8HOF?",
+                            "answer": "Visit SK8HOF website"
+                        },
+                        {
+                            "question": "Do you offer international shipping for your skateboard decks?",
+                            "answer": "Yes, Check out our shipping page - https:\/\/sk8hof.com\/shipping.php"
+                        },
+                        {
+                            "question": "What is your return policy on skateboard decks?",
+                            "answer": "We will update soon on our site"
+                        },
+                        {
+                            "question": "How long does it typically take to receive a skateboard deck after placing an order?",
+                            "answer": "It depends on where it is to be sent, Check out our shipping page for more information - https:\/\/sk8hof.com\/shipping.php"
+                        },
+                        {
+                            "question": "Can I visit SK8HOF to view and purchase skateboard decks directly?",
+                            "answer": "Yes, if you have more questions, contact us and we will set a meeting"
+                        },
+                        {
+                            "question": "How are your skateboard decks packaged for shipping to ensure they arrive safely?",
+                            "answer": "All shipments are packaged in hard cardboard, and it is arrive safely at their destination."
+                        },
+                        {
+                            "question": "Are there any upcoming signing events with pro skaters at SK8HOF?",
+                            "answer": "We will announce on the website and social media before the entire event."
+                        },
+                        {
+                            "question": "How can I get updates about new releases and exclusive skateboard decks at SK8HOF?",
+                            "answer": "follow our Instagram @sk8hof"
+                        },
+                        {
+                            "question": "What payment methods do you accept for purchasing skateboard decks?",
+                            "answer": "We charge payments through PAYPAL, which accepts all types of credit cards without the need to register there."
+                        }
+                    ],
+                    "topic_created_at": "2025-06-27 11:10:03"
+                }
+            }
+        },
+        [
+            {
+                "question": "What inspired the creation of SK8HOF?",
+                "answer": "SK8HOF was inspired by a passion for skate culture and the desire to offer unique, authentic skateboard memorabilia and streetwear to enthusiasts around the world."
+            },
+            {
+                "question": "Are the autographed skate decks at SK8HOF limited edition?",
+                "answer": "Yes, the autographed skate decks offered by SK8HOF are limited edition, making them exclusive and highly sought after by collectors."
+            },
+            {
+                "question": "Can I purchase SK8HOF merchandise from anywhere in the world?",
+                "answer": "Yes, SK8HOF's products are available for purchase worldwide through our online store."
+            },
+            {
+                "question": "How does SK8HOF authenticate the autographs on their skate decks?",
+                "answer": "All autographed skate decks at SK8HOF come with a certificate of authenticity to ensure they are genuine and directly from the pro skaters."
+            },
+            {
+                "question": "Does SK8HOF offer any products related to the metaverse?",
+                "answer": "Yes, SK8HOF extends its collection into the digital realm with avatar-ready fashion wearables and accessories for metaverse platforms."
+            },
+            {
+                "question": "What types of streetwear does SK8HOF offer?",
+                "answer": "SK8HOF offers a bold line of branded T-shirts and streetwear that embodies the edgy, authentic spirit of skate culture."
+            },
+            {
+                "question": "How often does SK8HOF release new merchandise?",
+                "answer": "SK8HOF frequently updates its inventory with new and exclusive items. Check our website regularly or follow us on social media to stay updated."
+            },
+            {
+                "question": "Are there any SK8HOF brand collaborations with famous skaters?",
+                "answer": "Yes, SK8HOF collaborates with world-renowned pro skaters to create exclusive autographed decks and merchandise."
+            },
+            {
+                "question": "What is the return policy for SK8HOF products?",
+                "answer": "SK8HOF offers a customer-friendly return policy for unused and undamaged products within a specific time frame detailed on our website."
+            },
+            {
+                "question": "How can I verify the authenticity of SK8HOF products?",
+                "answer": "Authentic SK8HOF products can be verified through unique serial numbers and certificates of authenticity provided with every purchase."
+            },
+            {
+                "question": "Does SK8HOF participate in any skate events or competitions?",
+                "answer": "Yes, SK8HOF actively participates and often sponsors skateboarding events and competitions to support the skate community."
+            },
+            {
+                "question": "Can I customize a skate deck when ordering from SK8HOF?",
+                "answer": "Customization options are limited as most skate decks are pre-signed by pro skaters, but keep an eye on special releases that might offer customization."
+            },
+            {
+                "question": "What payment methods are accepted on the SK8HOF online store?",
+                "answer": "SK8HOF accepts various payment methods including major credit cards, PayPal, and other widely used payment platforms."
+            },
+            {
+                "question": "Does SK8HOF offer products for both experienced skaters and beginners?",
+                "answer": "While our products are designed with a focus on collectors and skate culture enthusiasts, they can certainly be enjoyed by both experienced skaters and beginners alike."
+            },
+            {
+                "question": "How can I get updates on the latest SK8HOF collections?",
+                "answer": "You can subscribe to our newsletter or follow us on social media to get updates on the latest collections and exclusive releases from SK8HOF."
+            },
+            {
+                "question": "Are there any environmental considerations in the production of SK8HOF merchandise?",
+                "answer": "SK8HOF is committed to sustainability and ensures that production processes are environmentally conscious wherever possible."
+            },
+            {
+                "question": "What makes SK8HOF different from other skateboarding brands?",
+                "answer": "SK8HOF stands out due to its exclusive collection of autographed skateboards, its blend of skate culture with fashion, and its ventures into digital fashion in the metaverse."
+            },
+            {
+                "question": "How secure is shopping on the SK8HOF website?",
+                "answer": "The SK8HOF website is fully secured with the latest encryption technologies to ensure that your personal and payment information is protected during transactions."
+            },
+            {
+                "question": "Does SK8HOF have a physical store?",
+                "answer": "Currently, SK8HOF operates primarily online, and does not have a physical retail store."
+            },
+            {
+                "question": "How does SK8HOF support the skateboarding community?",
+                "answer": "SK8HOF supports the skateboarding community by sponsoring events, collaborating with skaters, and promoting skate culture globally."
+            },
+            {
+                "question": "Can I track my order from SK8HOF?",
+                "answer": "Yes, once your order is shipped, SK8HOF provides tracking information so you can monitor the delivery status of your purchase."
+            },
+            {
+                "question": "What are the shipping options available at SK8HOF?",
+                "answer": "SK8HOF offers multiple shipping options, including standard and express delivery, to accommodate the needs of our global customers."
+            },
+            {
+                "question": "Does SK8HOF offer warranty on their products?",
+                "answer": "SK8HOF products come with a warranty that covers manufacturing defects. Details of the warranty period and conditions are available on our website."
+            },
+            {
+                "question": "How can I contact SK8HOF customer service?",
+                "answer": "You can contact SK8HOF customer service via email at sk8hof@gmail.com or through our social media platforms for any inquiries."
+            },
+            {
+                "question": "Does SK8HOF ever offer limited-time promotions or sales?",
+                "answer": "Yes, SK8HOF occasionally offers promotions and sales, especially during special events or holidays. Follow us to stay informed about these opportunities."
+            }
+        ],
+        [
+            {
+                "question": "What exclusive experiences does SK8HOF offer in the metaverse?",
+                "answer": "Our collection extends into the digital world with avatar-ready fashion wearables and accessories for metaverse platforms, providing immersive experiences."
+            },
+            {
+                "question": "Can I find SK8HOF merchandise on virtual platforms like Roblox?",
+                "answer": "Yes, you can check out our Roblox profile for digital merchandise tailored for virtual platforms."
+            },
+            {
+                "question": "Is there a physical location where I can view the SK8HOF collection?",
+                "answer": "Our products are exclusively available online; please visit our website to view our collection."
+            },
+            {
+                "question": "What makes an SK8HOF skateboard deck unique compared to others?",
+                "answer": "Our skateboard decks are autographed by world’s top pro skaters and are limited editions made exclusively for collectors."
+            },
+            {
+                "question": "How do I know the autograph on my skateboard deck is authentic?",
+                "answer": "Each autographed skateboard comes with a certificate of authenticity detailing the pro skater's signature and the edition number."
+            },
+            {
+                "question": "Does SK8HOF collaborate with famous streetwear brands?",
+                "answer": "We feature collaborations that blend skate culture with fashion, including partnerships with brands like Dickies."
+            },
+            {
+                "question": "Are there any upcoming events or launches that I should look forward to from SK8HOF?",
+                "answer": "Stay tuned to our social media channels like Instagram @sk8hof for announcements regarding new launches and events."
+            },
+            {
+                "question": "How can I get in touch with Arik Mellul for a business inquiry?",
+                "answer": "You can reach Arik Mellul via email at arikmellul@gmail.com or through his LinkedIn profile."
+            },
+            {
+                "question": "Does SK8HOF release seasonal collections or is it on an as-inspired basis?",
+                "answer": "We release new items periodically without fixed seasonal schedules, focusing on inspiration and authenticity."
+            },
+            {
+                "question": "Are the designs for SK8HOF apparel created in-house or by external artists?",
+                "answer": "Both - we have in-house designs and also collaborate with external artists and designers for exclusive collections."
+            },
+            {
+                "question": "Can customers request custom-designed skateboard decks from SK8HOF?",
+                "answer": "Currently, we do not offer custom-designed decks but stay connected for any updates on personalized services in the future."
+            },
+            {
+                "question": "What measures does SK8HOF take to ensure ethical production practices?",
+                "answer": "We uphold positive values and community spirit; our brand avoids any association with illegal, unethical, or harmful activities."
+            },
+            {
+                "question": "\"It's History. It's Energy. It's SK8HOF.\" Can you elaborate on this philosophy?",
+                "answer": "\"It's not just Merch. It's History. It's Energy. It's SK8HOF.\" implies that we offer more than just merchandise; we sell pieces of skateboarding history that embody the energy of the sport."
+            },
+            {
+                "question": "What payment methods does SK8HOF accept for online purchases?",
+                "answer": "You can make purchases using various online payment methods available on our website checkout process."
+            },
+            {
+                "question": "Do your streetwear clothing sizes cater to all body types?",
+                "answer": "At the moment, we have standard sizing options but are considering expanding our range to cater to all body types in the near future."
+            },
+            {
+                "question": "Can I track my order once it is placed with SK8HOF?",
+                "answer": "Yes, after placing an order you will receive tracking information to follow your purchase delivery progress."
+            },
+            {
+                "question": "How do I care for my signed skateboard deck to ensure its longevity?",
+                "answer": "Keep your signed skateboard deck out of direct sunlight and in a temperature-controlled environment. Avoid handling it frequently to maintain the autograph quality."
+            },
+            {
+                "question": "Is there a community forum or group where fans of SK8HOF can connect?",
+                "answer": "While we don’t have an official forum, many fans connect and discuss their passion for skate culture through our social media platforms."
+            },
+            {
+                "question": "Does purchasing a product from SK8HOF include membership to any exclusive club or group?",
+                "answer": "While each purchase doesn’t include membership, buyers become part of an exclusive group of collectors who own rare signed skateboarding memorabilia."
+            },
+            {
+                "question": "Are there any eco-friendly or sustainable practices that SK8HOF follows in its merchandise production?",
+                "answer": "We are conscious about sustainability and incorporate eco-friendly practices where possible while producing our merchandise."
+            },
+            {
+                "question": "How does SK8HOF contribute back to the skateboarding community?",
+                "answer": "SK8HOF embodies skate culture and supports community initiatives. We regularly engage with pro skaters and contribute positively to extreme sports."
+            },
+            {
+                "question": "Do you have any recommendations on how to display my autographed skateboard deck?",
+                "answer": "Display your deck vertically or horizontally using wall mounts, glass cases, or shelves designed specifically for skateboard decks, keeping it away from high traffic areas."
+            },
+            {
+                "question": "If I'm new to collecting skateboarding memorabilia, where should I start with SK8HOF?",
+                "answer": "A signed skateboard deck is a great starting point as each piece comes with a story and represents a part of skateboarding history."
+            },
+            {
+                "question": "Can I find matching streetwear outfits for my metaverse avatar at SK8HOF?",
+                "answer": "Absolutely! Our collection includes avatar-ready fashion wearables that complement your personal style both online and offline."
+            },
+            {
+                "question": "I'm interested in street art related to skate culture. Does SK8HOF offer such items?",
+                "answer": "Yes, we occasionally feature street art-inspired items that resonate with urban culture and skateboarding aesthetics."
+            },
+            {
+                "question": "Does SK8HOF have partnerships or sponsorships with any professional skaters?",
+                "answer": "We collaborate closely with professional skaters who sometimes become brand ambassadors endorsing our authentic collection."
+            }
+        ],
+        [
+            {
+                "question": "What immersive experiences can I expect from SK8HOF in the metaverse?",
+                "answer": "SK8HOF offers digital wearables and accessories for avatars, enabling unique expressions of style in various metaverse platforms, coupled with AR\/VR experiences that blend skate culture with futuristic digital immersion."
+            },
+            {
+                "question": "Can I request a custom autographed deck from a specific pro skater through SK8HOF?",
+                "answer": "Our collection is limited and exclusive, featuring autographs from top pro skaters. For custom requests, you can contact us at sk8hof@gmail.com to see if we can accommodate your special requirement."
+            },
+            {
+                "question": "How does SK8HOF ensure the authenticity of autographs on their skateboard decks?",
+                "answer": "Each signed skateboard deck comes with a certificate of authenticity, ensuring that collectors receive genuine autographed items from the world's top pro skaters."
+            },
+            {
+                "question": "Does SK8HOF have a physical storefront where I can view the collection in person?",
+                "answer": "SK8HOF operates primarily online, offering our exclusive collections through our website https:\/\/sk8hof.com\/. We do not have a physical storefront for in-person visits."
+            },
+            {
+                "question": "Are there any upcoming events or collaborations that SK8HOF will be participating in?",
+                "answer": "SK8HOF regularly engages in innovative collaborations and events. Keep an eye on our social media channels for announcements about future partnerships and special occasions."
+            },
+            {
+                "question": "What makes SK8HOF's skateboard decks suitable for collectors?",
+                "answer": "Our skateboard decks are not only autographed by renowned pro skaters but are also part of limited releases, making them highly sought after by collectors for their rarity and authenticity."
+            },
+            {
+                "question": "Are there exclusive membership perks available at SK8HOF?",
+                "answer": "While we currently do not offer an exclusive membership program, we encourage customers to follow us on social media to stay updated on any future perks or loyalty programs that may be introduced."
+            },
+            {
+                "question": "Will my purchase from SK8HOF include any special packaging or presentation?",
+                "answer": "Yes, we take pride in our presentation. All purchases come with special packaging that reflects the exclusivity and artistic nature of our products."
+            },
+            {
+                "question": "Does SK8HOF offer any education on skateboarding history or culture?",
+                "answer": "While we don't provide formal education programs, our collections pay homage to skateboarding legends, offering insights into the sport's history and culture through the items we curate."
+            },
+            {
+                "question": "What inspiration does SK8HOF draw from for their streetwear designs?",
+                "answer": "Our streetwear is inspired by urban culture, the rebellious spirit of skateboarding, and iconic styles from skate history melded with contemporary fashion trends."
+            },
+            {
+                "question": "Do you host any virtual events within metaverse platforms where fans can participate?",
+                "answer": "We're always exploring innovative ways to engage with our community. Keep an eye on our social media for announcements regarding virtual events within metaverse platforms."
+            },
+            {
+                "question": "Can I customize my avatar with SK8HOF fashion wearables in any metaverse platform?",
+                "answer": "We offer avatar-ready fashion wearables compatible with various metaverse platforms. You can express your style seamlessly between different digital worlds."
+            },
+            {
+                "question": "Is it possible to preview how streetwear items will look before purchasing online?",
+                "answer": "We provide high-quality images on our website showcasing how each item looks; however, a direct preview feature is not available at this moment."
+            },
+            {
+                "question": "Does SK8HOF participate in any charity initiatives related to skateboarding?",
+                "answer": "Community involvement is key for us. We periodically engage in charity initiatives that support skateboarding communities and youth empowerment."
+            },
+            {
+                "question": "How does one become a featured artist or collaborator with SK8HOF?",
+                "answer": "For collaboration inquiries or artist features, please reach out via email at sk8hof@gmail.com with details about your work or concept."
+            },
+            {
+                "question": "Do you have real-life counterparts for your metaverse streetwear items?",
+                "answer": "Yes, many of our digital streetwear items have real-life versions available for purchase through our online store."
+            }
+        ]
+    ]
 }
-
